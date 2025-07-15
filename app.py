@@ -1,231 +1,184 @@
-import os
-import time
-import logging
-import traceback
-from datetime import datetime
 from flask import Flask, request, jsonify
 from paddleocr import PPStructureV3
+from PIL import Image
 import numpy as np
+import io
+import logging
+import os
+from datetime import datetime
 import cv2
 import json
 
-os.environ["PPOCR_DOWNLOAD_MODELS"] = "false"  # Block ALL downloads
-os.environ["FLAGS_allocator_strategy"] = "auto_growth"  # Dynamic memory
-os.environ["FLAGS_use_mkldnn"] = "false"  # Disable Intel optimizations
-
 # Configuration
 class Config:
-    DEBUG = os.environ.get("FLASK_ENV", "production") != "production"
-    PORT = int(os.environ.get("PORT", 10000))  # Render uses port 10000
+    DEBUG = False  # Production mode
+    PORT = int(os.environ.get("PORT", 10000))  # Render assigns PORT
     HOST = "0.0.0.0"
-    OCR_TIMEOUT = 300  # 5 minutes timeout for OCR processing
+    MAX_FILE_SIZE = int(os.environ.get("MAX_FILE_SIZE", 10 * 1024 * 1024))  # 10MB
     OCR_CONFIG = {
-        "device": "cpu",
-        "text_detection_model_name": "PP-OCRv5_mobile_det",
-        "use_angle_cls": False,  # Disable 50MB model
-        "det_model_dir": None,   # Disable 150MB detector
-        "text_recognition_model_dir": os.path.join(
-            os.path.dirname(__file__), 
-            "finetuned_PP-OCRv5_mobile_rec_model"
+        "device": os.environ.get("OCR_DEVICE", "cpu"),
+        "text_detection_model_name": os.environ.get("TEXT_DETECTION_MODEL", "PP-OCRv5_mobile_det"),
+        "text_recognition_model_dir": os.environ.get(
+            "TEXT_RECOGNITION_MODEL_DIR",
+            os.path.join(os.path.dirname(__file__), "finetuned_PP-OCRv5_mobile_rec_model")
         ),
-        "text_recognition_model_name": "PP-OCRv5_mobile_rec",
-        "show_log": False,
-        "enable_mkldnn": False  
+        "text_recognition_model_name": os.environ.get("TEXT_RECOGNITION_MODEL", "PP-OCRv5_mobile_rec"),
     }
 
-# Initialize Flask app
 app = Flask(__name__)
 app.config.from_object(Config)
 
-# Configure logging
-logging.basicConfig(
-    level=logging.INFO,
-    format='%(asctime)s - %(levelname)s - %(message)s',
-    handlers=[
-        logging.StreamHandler(),
-        logging.FileHandler('app.log')
-    ]
-)
+logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 logger = logging.getLogger(__name__)
 
-# Global OCR engine instance
-ocr = None
+try:
+    model_dir = Config.OCR_CONFIG["text_recognition_model_dir"]
+    if not os.path.exists(model_dir):
+        logger.error(f"Model directory {model_dir} does not exist")
+        raise FileNotFoundError(f"Model directory {model_dir} not found")
+    logger.info(f"Model directory found: {model_dir}")
+    ocr = PPStructureV3(**app.config["OCR_CONFIG"])
+    logger.info("✅ PaddleOCR PPStructureV3 initialized successfully")
+except Exception as e:
+    logger.error(f"❌ PaddleOCR PPStructureV3 initialization failed: {e}", exc_info=True)
+    ocr = None
 
-def initialize_ocr():
-    """Initialize the OCR engine with error handling"""
-    global ocr
-    try:
-        ocr = PPStructureV3(**app.config["OCR_CONFIG"])
-        logger.info("✅ PaddleOCR initialized successfully")
-        return True
-    except Exception as e:
-        logger.error(f"❌ OCR initialization failed: {str(e)}")
-        logger.error(traceback.format_exc())
-        return False
-
-with app.app_context():
-    if not initialize_ocr():
-        logger.error("Failed to initialize OCR engine")
-
-def validate_image_file(file):
-    """Validate the uploaded image file"""
-    if not file or file.filename == '':
-        return False, "No file uploaded or empty filename"
+def convert_paddleocr_result(raw_result):
+    output = []
+    if not raw_result:
+        return output
     
-    allowed_extensions = {'jpg', 'jpeg', 'png'}
-    if '.' not in file.filename or \
-       file.filename.rsplit('.', 1)[1].lower() not in allowed_extensions:
-        return False, "Invalid file type"
+    for result_obj in raw_result:
+        try:
+            if isinstance(result_obj, dict):
+                parsing_res = result_obj.get('parsing_res_list', [])
+                overall_res = result_obj.get('overall_ocr_res', {})
+            else:
+                parsing_res = getattr(result_obj, 'parsing_res_list', [])
+                overall_res = getattr(result_obj, 'overall_ocr_res', {})
+            
+            for score, box, text in zip(overall_res.get('rec_scores', []), overall_res.get('rec_boxes', []), overall_res.get('rec_texts', [])):
+                try:
+                    output.append({
+                        "text": text,
+                        "confidence": float(score),
+                        "coordinates": box.tolist() if isinstance(box, np.ndarray) else box,
+                        "label": "text"
+                    })
+                except Exception as block_error:
+                    logger.error(f"Error processing block: {block_error}", exc_info=True)
+                    continue
+        except Exception as e:
+            logger.error(f"Error processing result: {e}", exc_info=True)
+            continue
     
-    return True, ""
+    logger.info(f"Processed {len(output)} text blocks")
+    return output
 
-def process_image(file_stream):
-    """Process image file into numpy array"""
+def process_image_file(file):
     try:
-        img_bytes = file_stream.read()
+        img_bytes = file.read()
         np_array = np.frombuffer(img_bytes, np.uint8)
         img_array = cv2.imdecode(np_array, cv2.IMREAD_COLOR)
         
         if img_array is None:
-            raise ValueError("OpenCV failed to decode image")
-            
-        logger.info(f"Image processed. Shape: {img_array.shape}")
+            logger.warning("OpenCV failed to decode image. Falling back to PIL.")
+            img = Image.open(io.BytesIO(img_bytes))
+            if img.mode != 'RGB':
+                img = img.convert('RGB')
+            img_array = np }}">
+        logger.info(f"Image processed. Shape: {img_array.shape}, Type: {img_array.dtype}")
         return img_array
-        
     except Exception as e:
-        logger.error(f"Image processing error: {str(e)}")
+        logger.error(f"Image processing failed: {e}", exc_info=True)
         raise
 
-def format_ocr_result(raw_result):
-    """Convert PaddleOCR result to JSON-serializable format"""
-    results = []
-    if not raw_result:
-        return results
-    
-    for item in raw_result:
-        try:
-            # Handle both dict and object results
-            if isinstance(item, dict):
-                data = item
-            else:
-                data = {k: getattr(item, k) for k in dir(item) if not k.startswith('_')}
-            
-            if 'overall_ocr_res' in data:
-                res = data['overall_ocr_res']
-                for text, score, box in zip(
-                    res.get('rec_texts', []),
-                    res.get('rec_scores', []),
-                    res.get('rec_boxes', [])
-                ):
-                    results.append({
-                        "text": text,
-                        "confidence": float(score),
-                        "coordinates": box.tolist() if hasattr(box, 'tolist') else box,
-                        "label": "text"
-                    })
-                    
-        except Exception as e:
-            logger.error(f"Error processing OCR item: {str(e)}")
-            continue
-    
-    return results
-
 @app.route('/api/ocr', methods=['POST'])
-def ocr_endpoint():
-    """Main OCR processing endpoint"""
-    start_time = time.time()
-    
+def ocr_route():
     if not ocr:
         return jsonify({
             "success": False,
             "error": "OCR engine not initialized",
-            "timestamp": datetime.utcnow().isoformat()
+            "result": None,
+            "timestamp": datetime.now().isoformat()
         }), 500
     
-    # Validate request
-    if 'file' not in request.files:
-        return jsonify({
-            "success": False,
-            "error": "No file uploaded",
-            "timestamp": datetime.utcnow().isoformat()
-        }), 400
-        
-    file = request.files['file']
-    is_valid, error_msg = validate_image_file(file)
-    if not is_valid:
-        return jsonify({
-            "success": False,
-            "error": error_msg,
-            "timestamp": datetime.utcnow().isoformat()
-        }), 400
-    
     try:
-        # Process image
-        img_array = process_image(file)
+        if 'file' not in request.files:
+            return jsonify({
+                "success": False,
+                "error": "No file uploaded",
+                "result": None,
+                "timestamp": datetime.now().isoformat()
+            }), 400
         
-        # Check timeout
-        if time.time() - start_time > app.config["OCR_TIMEOUT"] / 2:
-            raise TimeoutError("Image processing took too long")
+        file = request.files['file']
         
-        # Perform OCR
-        raw_result = ocr.predict(img_array)
+        if file.filename == '':
+            return jsonify({
+                "success": False,
+                "error": "No file selected",
+                "result": None,
+                "timestamp": datetime.now().isoformat()
+            }), 400
+
+        file.seek(0, os.SEEK_END)
+        file_size = file.tell()
+        logger.info(f"File size: {file_size} bytes")
+        if file_size > Config.MAX_FILE_SIZE:
+            logger.error(f"File size {file_size} exceeds limit {Config.MAX_FILE_SIZE}")
+            return jsonify({
+                "success": False,
+                "error": f"File size exceeds limit of {Config.MAX_FILE_SIZE / (1024 * 1024)}MB",
+                "result": None,
+                "timestamp": datetime.now().isoformat()
+            }), 400
+        file.seek(0)
+
+        logger.info(f"Processing file: {file.filename}")
+        img_array = process_image_file(file)
+        result = ocr.predict(img_array)
+        logger.info(f"Raw OCR result type: {type(result)}")
         
-        # Check timeout again
-        if time.time() - start_time > app.config["OCR_TIMEOUT"]:
-            raise TimeoutError("OCR processing timeout")
+        processed_result = convert_paddleocr_result(result)
         
-        # Format results
-        processed_results = format_ocr_result(raw_result)
-        
-        if not processed_results:
+        if not processed_result:
+            logger.warning(f"No content detected in {file.filename}")
             return jsonify({
                 "success": True,
-                "message": "No text detected",
+                "message": "No text/content detected in image",
                 "result": [],
-                "timestamp": datetime.utcnow().isoformat()
+                "timestamp": datetime.now().isoformat()
             })
-            
+
         return jsonify({
             "success": True,
-            "result": processed_results,
-            "timestamp": datetime.utcnow().isoformat()
+            "message": "OCR processing completed",
+            "result": processed_result,
+            "timestamp": datetime.now().isoformat()
         })
-        
-    except TimeoutError as e:
-        logger.error(f"Processing timeout: {str(e)}")
-        return jsonify({
-            "success": False,
-            "error": "Processing timeout",
-            "timestamp": datetime.utcnow().isoformat()
-        }), 408
-        
+
     except Exception as e:
-        logger.error(f"OCR processing error: {str(e)}")
-        logger.error(traceback.format_exc())
+        logger.error(f"Error in OCR route: {traceback.format_exc()}")
         return jsonify({
             "success": False,
-            "error": f"Processing error: {str(e)}",
-            "timestamp": datetime.utcnow().isoformat()
+            "error": str(e),
+            "result": None,
+            "timestamp": datetime.now().isoformat()
         }), 500
 
 @app.route('/')
 def health_check():
-    """Health check endpoint for Render"""
-    status = {
+    return jsonify({
         "status": "ready" if ocr else "unavailable",
         "ocr_initialized": bool(ocr),
         "service": "paddle-ocr-api",
         "version": "1.0",
-        "timestamp": datetime.utcnow().isoformat()
-    }
-    return jsonify(status)
+        "timestamp": datetime.now().isoformat()
+    })
 
-# For local development
 if __name__ == '__main__':
-     with app.app_context():
-        initialize_ocr()
-        app.run(
-            host=app.config["HOST"],
-            port=app.config["PORT"],
-            debug=app.config["DEBUG"]
-        )
+    if app.config["DEBUG"]:
+        app.run(host=app.config["HOST"], port=app.config["PORT"], debug=True)
+    else:
+        logger.info("Production mode: Use Gunicorn to run the app")
