@@ -55,9 +55,7 @@ def initialize_ocr():
         logger.error(traceback.format_exc())
         return False
 
-@app.before_first_request
-def before_first_request():
-    """Initialize OCR before first request"""
+with app.app_context():
     if not initialize_ocr():
         logger.error("Failed to initialize OCR engine")
 
@@ -216,9 +214,10 @@ def health_check():
 
 # For local development
 if __name__ == '__main__':
-    initialize_ocr()
-    app.run(
-        host=app.config["HOST"],
-        port=app.config["PORT"],
-        debug=app.config["DEBUG"]
-    )
+     with app.app_context():
+        initialize_ocr()
+        app.run(
+            host=app.config["HOST"],
+            port=app.config["PORT"],
+            debug=app.config["DEBUG"]
+        )
