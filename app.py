@@ -18,7 +18,7 @@ class Config:
     OCR_CONFIG = {
         "device": "cpu",
         "text_detection_model_name": "PP-OCRv5_mobile_det",
-       "text_recognition_model_dir": "finetuned_PP-OCRv5_mobile_rec_model",
+        "text_recognition_model_dir": os.path.join(os.path.dirname(__file__), "finetuned_PP-OCRv5_mobile_rec_model"),
         "text_recognition_model_name": "PP-OCRv5_mobile_rec",
     }
     
