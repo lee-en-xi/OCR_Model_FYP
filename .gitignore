@@ -1,0 +1,11 @@
+# Ignore Python virtual environments
+venv/
+*.pyc
+*.pyo
+__pycache__/
+
+
+# Ignore other unwanted files
+.idea/
+*.log
+finetuned_PP-OCRv5_mobile_rec_model/inference.pdiparams

@@ -1,0 +1,1578 @@
+images/train_0_2.png	you're
+images/train_0_5.png	seventeen
+images/train_0_8.png	and unsure. you've never
+images/train_0_11.png	been one
+images/train_0_14.png	to make
+images/train_0_17.png	decisions and now you have
+images/train_0_20.png	to make way too many. yov have the choice to
+images/train_0_23.png	choose
+images/train_0_26.png	the safe route or the difficulty path.they
+images/train_0_29.png	always say to tave tne road ley travelled-
+images/train_0_32.png	but there's a
+images/train_0_35.png	reason fewer people take it. you
+images/train_0_38.png	have
+images/train_0_41.png	to choose between security and adventure
+images/train_0_44.png	and
+images/train_0_47.png	adventure doesn't pay the bills. you have to
+images/train_0_50.png	decide
+images/train_0_53.png	whether to stay and float or leave
+images/train_0_56.png	and
+images/train_0_59.png	swim.  there's always going to be the
+images/train_0_62.png	risk
+images/train_0_65.png	of
+images/train_0_68.png	drowning.
+images/train_1_2.png	B-COMPLEX with
+images/train_1_5.png	LIPOTROPICS, WHEAT
+images/train_1_8.png	GERM & LECITHIN CAPSULE
+images/train_1_11.png	Each vegetable capsule contains:
+images/train_1_14.png	Vit.B1 (ThiamineNCI)
+images/train_1_17.png	equiv. to44.6n-7hiamine
+images/train_1_20.png	50mg
+images/train_1_23.png	Vit. B2(Riboflavin
+images/train_1_26.png	30mg
+images/train_1_29.png	Vit. B3 (Niacinamde)
+images/train_1_32.png	50mg
+images/train_1_35.png	Vit.B5 (D-Calcium Pantothenate)
+images/train_1_38.png	20mg
+images/train_1_41.png	equiv. to 18.4mg Pantothenic Acid
+images/train_1_44.png	Vit. B6 (Pyridoxine HCI)
+images/train_1_47.png	61mg
+images/train_1_50.png	equiv. to Pyridoxine 50mg
+images/train_1_53.png	Vit. B12(Cyanocobalamin)
+images/train_1_56.png	50mcg
+images/train_1_59.png	Folic Acid
+images/train_1_62.png	400mcg
+images/train_1_65.png	Biotin
+images/train_1_68.png	40mcg
+images/train_1_71.png	Choline Bitartrate
+images/train_1_74.png	50mg
+images/train_1_77.png	50mg
+images/train_1_80.png	Inositol
+images/train_1_83.png	50mg
+images/train_1_86.png	Para Amino Benzoic Acid
+images/train_1_89.png	50mg
+images/train_1_92.png	DI-Methionine
+images/train_1_95.png	30mg
+images/train_1_98.png	Wheat Germ
+images/train_1_101.png	30mg
+images/train_1_104.png	Lecithin
+images/train_3_2.png	MAKLUMAT
+images/train_3_5.png	PEMAKANAN
+images/train_3_8.png	Saiz
+images/train_3_11.png	Sajian:
+images/train_3_14.png	2.5g
+images/train_3_17.png	Bilangan
+images/train_3_20.png	Sajian Per
+images/train_3_23.png	Pek:
+images/train_3_26.png	24
+images/train_3_29.png	Setiap
+images/train_3_32.png	Setiap
+images/train_3_35.png	Sajian
+images/train_3_38.png	Khasiat
+images/train_3_41.png	100g
+images/train_3_44.png	2.5g
+images/train_3_47.png	Tenaga
+images/train_3_50.png	396
+images/train_3_53.png	kcal
+images/train_3_56.png	10 kcal
+images/train_3_59.png	(1kcal=4.2kw)
+images/train_3_62.png	og
+images/train_3_65.png	0g
+images/train_3_68.png	Protein
+images/train_3_71.png	0.8g
+images/train_3_74.png	0g
+images/train_3_77.png	Lemak
+images/train_3_80.png	96.0g
+images/train_3_83.png	2.4g
+images/train_3_86.png	Kart
+images/train_3_89.png	D!
+images/train_3_92.png	Gula
+images/train_3_95.png	74.0g
+images/train_3_98.png	1.9g
+images/train_3_101.png	Jumlah
+images/train_3_104.png	6mg
+images/train_3_107.png	0mg
+images/train_3_110.png	Natrium
+images/train_4_2.png	Ingredients/成分/Ramuan
+images/train_4_5.png	Each 500mg capsule contains
+images/train_4_8.png	Fructus Auranti Immaturus.
+images/train_4_11.png	120mg
+images/train_4_14.png	Folium Camellia Sinensis (Green Tea Leaf) Extract... 120mg
+images/train_4_17.png	Folium Nelumbo Nucifera
+images/train_4_20.png	….80mg
+images/train_4_23.png	Radix Et Rhizoma Rhei Palmatum L
+images/train_4_26.png	…..60mg
+images/train_4_29.png	Semen Cassiae Torae
+images/train_4_32.png	60mg
+images/train_4_35.png	Fructus Crataegus Pinnatifida..
+images/train_4_38.png	..60mg
+images/train_4_41.png	Indication/功能/Indikasi
+images/train_4_44.png	Traditionally used for reducing body weight.
+images/train_4_47.png	传统上用于减轻体重。
+images/train_4_50.png	Digunakan secara tradisional untuk mengurangkan berat
+images/train_4_53.png	badan.
+images/train_4_56.png	Health Advice / Warning Statement
+images/train_4_59.png	• Contraindicated in pregnancy.
+images/train_4_62.png	• Insufficient reliable data in lactation.
+images/train_4_65.png	• Balanced diet and regular exercise are essential.
+images/train_4_68.png	• Safety on long term use has not been established.
+images/train_4_71.png	·This is a traditional medicine /纯天然传统配方/
+images/train_4_74.png	Ini adalah ubat tradisional.
+images/train_4_77.png	• Do not use when abdominal pain, nausea or vomiting
+images/train_4_80.png	is present.
+images/train_4_83.png	• Frequent or prolonged use of this preparation may
+images/train_4_86.png	result in dependence towards the product and
+images/train_4_89.png	imbalanced electrolytes.
+images/train_5_2.png	Contraindication & overdosage :Unknown
+images/train_5_5.png	Each capsule contains :
+images/train_5_8.png	Coenzyme Q10(Ubidecarenone
+images/train_5_11.png	75mg
+images/train_5_14.png	Drug interactions: CoQ10 may decrease the affectiveness of warfarin.If
+images/train_5_17.png	you are on warfarin therapy, please seek medical advice before using.
+images/train_5_20.png	Indication: As a health supplement
+images/train_5_23.png	Store below 30°C in a dry place, away from direct sunlight
+images/train_5_26.png	Keep out of reach of children. (Jauhi dari kanak-kanak)
+images/train_5_29.png	Directions for use:
+images/train_5_32.png	Adults: Take 2 capsules once daily with meal or as recommended by
+images/train_5_35.png	your pharmacist or doctor.
+images/train_5_38.png	Reg No:MAL15095001NCR
+images/train_5_41.png	Please refer to immediate label for batch number, manufacturing date and expiry date.
+images/train_6_2.png	do
+images/train_6_5.png	you
+images/train_6_8.png	do
+images/train_6_11.png	What
+images/train_7_2.png	there
+images/train_7_5.png	is
+images/train_7_8.png	house
+images/train_7_11.png	in
+images/train_7_14.png	Orleans
+images/train_7_17.png	a
+images/train_7_20.png	new
+images/train_8_2.png	to
+images/train_8_5.png	how
+images/train_8_8.png	collect
+images/train_8_11.png	data
+images/train_9_2.png	I'VE
+images/train_9_5.png	BEEN
+images/train_9_8.png	TOLD
+images/train_9_11.png	THAT
+images/train_9_14.png	my
+images/train_9_17.png	PRINTING
+images/train_9_20.png	IS
+images/train_9_23.png	NICE
+images/train_10_2.png	ingre
+images/train_10_5.png	lents
+images/train_10_8.png	Active
+images/train_10_11.png	per
+images/train_10_14.png	tablet
+images/train_10_17.png	ascorbic acid
+images/train_10_20.png	nd
+images/train_10_23.png	sodium
+images/train_10_26.png	ascorbate)500mg
+images/train_10_29.png	Vitamin C(as
+images/train_10_32.png	gluconate)
+images/train_10_35.png	10mg
+images/train_10_38.png	(as
+images/train_10_41.png	zinc
+images/train_10_44.png	Zinc
+images/train_11_2.png	Each caplet (1507mg) contains:
+images/train_11_5.png	Spirulina
+images/train_11_8.png	1000mg
+images/train_11_11.png	(Arthrospira platensis)
+images/train_11_14.png	Take one caplet daily after any meal
+images/train_11_17.png	or as recommended by a doctor or
+images/train_11_20.png	Please consult your pharmacist /doctor
+images/train_11_23.png	before taking this product.
+images/train_11_26.png	Indication:
+images/train_11_29.png	Traditionally used for general health.
+images/train_11_32.png	Keep below 30°C.
+images/train_11_35.png	Protect from light and moisture.
+images/train_11_38.png	Keep out of reach of children.
+images/train_11_41.png	Jauhkan daripada capaian kanak-kanak.
+images/train_11_44.png	Pregnancy and breastfeeding : Insufficient
+images/train_11_47.png	reliable data.
+images/train_11_50.png	Indication:
+images/train_11_53.png	Directions:
+images/train_12_2.png	good
+images/train_12_8.png	a
+images/train_12_11.png	way
+images/train_13_2.png	Indicaton / 功能 / Indikasi
+images/train_13_5.png	Traditionally used for reducing body weight.
+images/train_13_8.png	传统上用于减轻体重。
+images/train_13_11.png	Digunakan secara tradisional untuk mengurangkan berat
+images/train_13_14.png	badan
+images/train_13_17.png	Health Advice / Warning Statement
+images/train_13_20.png	· Contraindicated in pregnancy.
+images/train_13_23.png	• Insufficient reliable data in lactation.
+images/train_13_26.png	• Balanced diet and regular exercise are essential.
+images/train_13_29.png	• Safety on long term use has not been established.
+images/train_13_32.png	·This is a traditional medicine /纯天然传统配方/
+images/train_13_35.png	Ini adalah ubat tradisional.
+images/train_13_38.png	• Do not use when abdominal pain, nausea or vomiting
+images/train_13_41.png	is present,
+images/train_13_44.png	• Frequent or prolonged use of this preparation may
+images/train_13_47.png	result in dependence towards the product and
+images/train_13_50.png	imbalanced electrolytes.
+images/train_14_2.png	Don't ever let someone tell you, you can't do
+images/train_14_5.png	something. Not even me. you got a dream
+images/train_14_8.png	you got to protect it. People can't do something
+images/train_14_11.png	themselves. they want to tell you, you can't
+images/train_14_14.png	do it. you want something, go get it,Period.
+images/train_14_17.png	All right?"
+images/train_15_2.png	Stories
+images/train_15_5.png	are
+images/train_15_8.png	born
+images/train_15_11.png	when
+images/train_15_14.png	people
+images/train_15_17.png	come
+images/train_16_2.png	BLACK
+images/train_16_5.png	ELDERBERRY
+images/train_16_8.png	ALMANUKA
+images/train_16_11.png	Sambucol
+images/train_16_14.png	the original Black Elderberry
+images/train_16_17.png	Sambucol
+images/train_16_20.png	with
+images/train_16_23.png	great tasting highly
+images/train_16_26.png	Blended
+images/train_16_29.png	brand.
+images/train_16_32.png	Elderberry
+images/train_16_35.png	concentrated
+images/train_16_38.png	and Manuka
+images/train_16_41.png	Black
+images/train_16_44.png	Honey.
+images/train_16_47.png	suggestion: Take
+images/train_16_50.png	one candy every 2-3
+images/train_16_53.png	Serving
+images/train_16_56.png	hots as needed. Maximur 8 daily
+images/train_16_59.png	NUTRITION
+images/train_16_62.png	INFORMATION
+images/train_16_65.png	Imported by:
+images/train_16_68.png	package:
+images/train_16_71.png	16
+images/train_16_74.png	Servings
+images/train_16_77.png	per
+images/train_16_80.png	PharmaCare (Asia) Sdn Bhd
+images/train_16_83.png	Size
+images/train_16_86.png	.6g(1 candy)
+images/train_16_89.png	Serving
+images/train_16_92.png	100-6.005
+images/train_16_95.png	129Offices,
+images/train_16_98.png	Average.Quantity
+images/train_16_101.png	Average
+images/train_16_104.png	Jaya
+images/train_16_107.png	One, Jalan Universiti 46200
+images/train_16_110.png	Block J,
+images/train_16_113.png	Quan
+images/train_16_116.png	per
+images/train_16_119.png	Serving
+images/train_16_122.png	per
+images/train_16_125.png	100g
+images/train_16_128.png	Petaling
+images/train_16_131.png	Jaya Selangor,
+images/train_16_134.png	Malaysi
+images/train_16_137.png	Energy
+images/train_16_140.png	78kJ
+images/train_16_143.png	1690kJ
+images/train_16_146.png	Owner
+images/train_16_149.png	of rights of manufacturing
+images/train_16_152.png	Protein
+images/train_16_155.png	0.1g
+images/train_16_158.png	PharmaCare
+images/train_16_161.png	labortories Pty
+images/train_16_164.png	18
+images/train_16_167.png	JubileeWarriewoodNs
+images/train_16_170.png	Total Fat
+images/train_16_173.png	0.1g
+images/train_16_176.png	4.6g
+images/train_16_179.png	Carbohydrate
+images/train_16_182.png	99.2g
+images/train_16_185.png	Product of Australia
+images/train_16_188.png	TotallSugars
+images/train_16_191.png	3.4g
+images/train_16_194.png	73.3g
+images/train_16_197.png	Sodium
+images/train_16_200.png	143
+images/train_16_203.png	5mg
+images/train_16_206.png	15mg
+images/train_16_209.png	13/3
+images/train_16_212.png	INGREDIENTS:
+images/train_16_215.png	Sugar
+images/train_16_218.png	Glucose,
+images/train_16_221.png	Manuka
+images/train_16_224.png	honey (2.07%),
+images/train_16_227.png	Honey (2.02%)
+images/train_16_230.png	Acidity
+images/train_16_233.png	regulators
+images/train_16_236.png	(Lacticacid), F
+images/train_16_239.png	Permitted
+images/train_16_242.png	flavouring
+images/train_16_245.png	(Wildberry
+images/train_16_248.png	flavour),
+images/train_16_251.png	Black
+images/train_16_254.png	elderberry
+images/train_16_257.png	fruit juice
+images/train_16_260.png	powder
+images/train_16_263.png	(Sambucus
+images/train_16_266.png	nigra)(0.36)
+images/train_16_269.png	Store below25C.
+images/train_18_2.png	Indication:
+images/train_18_5.png	Directions:
+images/train_18_8.png	&US RDA
+images/train_18_11.png	Each capsule contains:
+images/train_18_14.png	13.00%
+images/train_18_17.png	Vitamin E
+images/train_18_20.png	Gelatin:Bovine
+images/train_18_23.png	(d-alpha Tocapheryl Acetate)
+images/train_18_26.png	*US RDA for adults and children above 4 years
+images/train_18_29.png	As a dietary supplement. Vitamin E is a powerful scavenger of highly reacive free radicals in our body. Adequate levels of Vitamin E is essential to product our body from oxidative damage.
+images/train_18_32.png	Take 1 capsule daily with food.
+images/train_19_2.png	Each capsule contains:
+images/train_19_5.png	Fish Oil
+images/train_19_8.png	1000mg
+images/train_19_11.png	contains Omega-3 triglycerides 300 mg as:
+images/train_19_14.png	Elcosapentaenoic acid (EPA) 180 mg
+images/train_19_17.png	Docosahexaenoic acid (DHA)
+images/train_19_20.png	120mg
+images/train_19_23.png	No added sugar, yeast, milk derivatives, wheat, gluten,
+images/train_19_26.png	preservatives, artificial colours & flavours.
+images/train_19_29.png	Indication:As a health supplement
+images/train_19_32.png	Directions for use:
+images/train_19_35.png	Adults: Take 1 capsule 3 times daily with food or as
+images/train_19_38.png	recommended by your doctor or pharmacist.
+images/train_19_41.png	Omega-3 polyunsaturated fatty acids EPA & DHA, play an
+images/train_19_44.png	important role in the maintenance of normal functions of a
+images/train_19_47.png	healthy body.
+images/train_19_50.png	Fish Oil is one of the sources of Omega-3 polyunsaturated fatty
+images/train_19_53.png	acids EPA & DHA. BiO-LiFE@OMEGA-3 Fish Oil 1000mg
+images/train_19_56.png	Soft Capsule is a convenient way to supplement your daily
+images/train_19_59.png	intake of Omega-3 polyunsaturated fatty acids.
+images/train_19_62.png	Contraindication : Individuals with known hypersensitivity
+images/train_19_65.png	to fish oil.
+images/train_19_68.png	Overdosage : Unknown
+images/train_20_2.png	使立消能帮助消除喉咙痛。儿童及成人均宜服用
+images/train_20_5.png	pada suhu bilik (pada atau di bawah 30C).
+images/train_20_8.png	tercekik. Jauhkan dari kanak-kanak
+images/train_20_11.png	Read the instruction carefully before use.
+images/train_20_14.png	LOT ABC0062 LEXP
+images/train_20_17.png	Strepsils adalah lozeng antiseptik untuk melegakan sakit tekak untuk kanak-kanak dan orang dewasa. Strepsils is an antiseptic lozenge for relief of sore throat for children and adults.
+images/train_20_20.png	每隔二至三小时含服一粒。请依照服法。如症状持续, 请咨询医生。幼儿可能会被喉咙哽住, 请小心服用。请存放于小孩所不能触及之出。置于室内温度 （摄氏30度或以下。）
+images/train_20_23.png	Larutkan seniji lozeng perlahan-lahan dalam mulut setiap 2 hingga 3 jam. Jangan melebihi dos yang ditetapkan. Jika sakit berlarutan, sila jumpa doctor. Perhatian: lozeng boleh menyebabkan kanak-kanak ke tercekik.
+images/train_20_26.png	Dissolve a lozenge slowly in the mouth every 2 to 3 hours. Do not exceed the stated dose. If symtoms persist, consult your doctor. Remember young children can choke on lozenges. Store at room temperature.
+images/train_21_2.png	have
+images/train_21_5.png	learned that I don't actually
+images/train_21_8.png	want what I think I want,
+images/train_21_11.png	unless
+images/train_21_14.png	God
+images/train_21_17.png	wants it for me
+images/train_21_20.png	I
+images/train_22_2.png	NUTRITION INFORMATION
+images/train_22_5.png	Serving
+images/train_22_8.png	size:1 Pack
+images/train_22_11.png	(35
+images/train_22_14.png	g)/Per
+images/train_22_17.png	100g
+images/train_22_20.png	CALORIES
+images/train_22_23.png	127/
+images/train_22_26.png	363
+images/train_22_29.png	Amount
+images/train_22_32.png	Per
+images/train_22_35.png	Serving
+images/train_22_38.png	Per
+images/train_22_41.png	100g
+images/train_22_44.png	Total Fat
+images/train_22_47.png	0.7g
+images/train_22_50.png	2.0g
+images/train_22_53.png	Saturated Fat
+images/train_22_56.png	0g
+images/train_22_59.png	og
+images/train_22_62.png	Trans
+images/train_22_65.png	Fat
+images/train_22_68.png	0g
+images/train_22_71.png	og
+images/train_22_74.png	Cholesterol
+images/train_22_77.png	0mg
+images/train_22_80.png	0mg
+images/train_22_83.png	Sodium
+images/train_22_86.png	383
+images/train_22_89.png	mg
+images/train_22_92.png	1,094
+images/train_22_95.png	mg
+images/train_22_98.png	Total
+images/train_22_101.png	Carbohydrate
+images/train_22_104.png	10g
+images/train_22_107.png	29g
+images/train_22_110.png	Total
+images/train_22_113.png	Sugars
+images/train_22_116.png	1.4g
+images/train_22_119.png	4.0g
+images/train_22_122.png	Protein
+images/train_22_125.png	21g
+images/train_22_128.png	60g
+images/train_23_2.png	Vitamin c
+images/train_23_5.png	of
+images/train_23_8.png	Source
+images/train_23_11.png	C
+images/train_23_14.png	(INS 955),
+images/train_23_17.png	Ingredients: Water,
+images/train_23_20.png	Flavouring (Pineapple
+images/train_23_23.png	(INS160
+images/train_23_26.png	Colouring
+images/train_23_29.png	Per Pack:1
+images/train_23_32.png	Serving
+images/train_23_35.png	Size:320ml
+images/train_23_38.png	Per Serving
+images/train_23_41.png	Serving
+images/train_23_44.png	Per
+images/train_23_47.png	(320ml)
+images/train_23_50.png	100ml
+images/train_23_53.png	116kcal
+images/train_23_56.png	36kcal
+images/train_23_59.png	29.1g
+images/train_23_62.png	9.19
+images/train_23_65.png	Energy
+images/train_23_68.png	27.5g
+images/train_23_71.png	8.6g
+images/train_23_74.png	Carbohydrate
+images/train_23_77.png	0.0g
+images/train_23_80.png	Total Sugars
+images/train_23_83.png	0.0g
+images/train_23_86.png	0.0g
+images/train_23_89.png	0.0g
+images/train_23_92.png	Protein
+images/train_23_95.png	67mg
+images/train_23_98.png	21mg
+images/train_23_101.png	Total Fat
+images/train_23_104.png	48mg
+images/train_23_107.png	15mg
+images/train_23_110.png	Sodium
+images/train_23_113.png	Vitamin C
+images/train_23_116.png	Best served chilled.
+images/train_23_119.png	Karta International Sdn Bhd (201801009286)
+images/train_23_122.png	No. 19, Jalan TPP 1/1A, Taman Industri Puchong,
+images/train_23_125.png	Malaysia.
+images/train_23_128.png	Imported and Distributed by:
+images/train_23_131.png	Kara Markerting (M) Sdn.Nhd (199901013983)
+images/train_23_134.png	No. 19, Jalan TPP 1/1A, Taman Industri Puchong,
+images/train_23_137.png	47100 Puchong, Selangor, Malaysia
+images/train_23_140.png	Tel
+images/train_23_143.png	Email
+images/train_23_146.png	Website:www.kmmsb.com
+images/train_23_149.png	www.facebook.com/kartacw
+images/train_23_152.png	Product of Vietnam
+images/train_23_155.png	EXP DATE (SEE BOTTOM OF CAN)
+images/train_23_158.png	:603 8061 1199
+images/train_23_161.png	The owner of the rights of manufacturer
+images/train_23_164.png	: online@karta.com.my
+images/train_23_167.png	47100 Puchong, Selangor, Malaysia
+images/train_23_170.png	Storage condition: Keep in a dry and cool place. Shake well
+images/train_23_173.png	No Preservatives
+images/train_23_176.png	Pineapple juice (35%), Sugar, Citric Acid, Ascorbic Acid, Sweetener (INS 955), Colouring (INS 160).
+images/train_23_179.png	NUTRITION INFORMATION
+images/train_24_2.png	for
+images/train_24_5.png	osteoarthritis
+images/train_24_8.png	therapy
+images/train_24_11.png	Indication:
+images/train_24_14.png	adjunct
+images/train_24_17.png	Glucosamine
+images/train_24_20.png	Asan
+images/train_24_23.png	Kordel's
+images/train_24_26.png	of
+images/train_24_29.png	Plus
+images/train_24_32.png	Capsule
+images/train_24_35.png	contains:
+images/train_24_38.png	capsule
+images/train_24_41.png	500/400
+images/train_24_44.png	Each
+images/train_24_47.png	500mg
+images/train_24_50.png	Chondroitin
+images/train_24_53.png	sulphate
+images/train_24_56.png	potassium chloride)
+images/train_24_59.png	sulphate
+images/train_24_62.png	Glucosamine
+images/train_24_65.png	400mg
+images/train_24_68.png	sulphate
+images/train_24_71.png	(As Glucosamine
+images/train_24_74.png	Chondroitin
+images/train_24_77.png	with
+images/train_24_80.png	glucosamine
+images/train_24_83.png	therapy
+images/train_24_86.png	provides
+images/train_24_89.png	sulphate
+images/train_24_92.png	benefits
+images/train_24_95.png	Combination
+images/train_24_98.png	osteoarthritis:
+images/train_24_101.png	and chondroitin
+images/train_24_104.png	with
+images/train_24_107.png	pain
+images/train_24_110.png	patients
+images/train_24_113.png	joint
+images/train_24_116.png	in
+images/train_24_119.png	function
+images/train_24_122.png	and
+images/train_24_125.png	mobility
+images/train_24_128.png	Reduced
+images/train_24_131.png	joint
+images/train_24_134.png	from
+images/train_24_137.png	progressive
+images/train_24_140.png	Improved
+images/train_24_143.png	cartilage
+images/train_24_146.png	Protects
+images/train_24_149.png	damage
+images/train_24_152.png	three
+images/train_24_155.png	times
+images/train_24_158.png	daily,
+images/train_24_161.png	Directions:
+images/train_24_164.png	capsule
+images/train_24_167.png	one
+images/train_24_170.png	meals
+images/train_24_173.png	Take
+images/train_24_176.png	before
+images/train_24_179.png	minutes
+images/train_24_182.png	15
+images/train_24_185.png	Gelatine: Bovine
+images/train_24_188.png	seafood
+images/train_24_191.png	from
+images/train_24_194.png	Derived
+images/train_24_197.png	milk
+images/train_24_200.png	derivatives,
+images/train_24_203.png	sugar,
+images/train_24_206.png	added
+images/train_24_209.png	no
+images/train_24_212.png	flavourings
+images/train_24_215.png	Contains
+images/train_24_218.png	artificial
+images/train_24_221.png	or
+images/train_24_224.png	gluten,
+images/train_24_227.png	yeast,
+images/train_24_230.png	preservatives.
+images/train_28_2.png	Daily supplement design to support the body's natural
+images/train_28_5.png	detox process, rich in antioxidants & fibre to enhanced
+images/train_28_8.png	liver, digestive system & overall health.
+images/train_28_11.png	Ingredient List
+images/train_28_14.png	RO Water, Mix Berries Powder (Blackberry Powder,
+images/train_28_17.png	Raspberry Powder, Blueberry Powder, Elderberry
+images/train_28_20.png	Powder), Strawberry Powder, Grape Powder, Roselle
+images/train_28_23.png	Powder, Isomaltulose, Polydextrose, Fiber Cum, Soluble
+images/train_28_26.png	Corn Fiber (Promitor TM 85), Psyllium Husk, Apple Fiber,
+images/train_28_29.png	Oat Fiber, Hawthorn Extract, Probiotics, Green Coffee
+images/train_28_32.png	Bean Extract, L-Carnitine, Raspberry Ketone, Digestive
+images/train_28_35.png	Enzymes (Amylase, Protease, Cellulase, Lactase, Lipase),
+images/train_28_38.png	Vitamin C, Aloe Vera Extract & Sucralose
+images/train_28_41.png	Containing stabilizer & acidity regulator
+images/train_28_44.png	as permitted food conditioner
+images/train_28_47.png	NUTRITION INFORMATION :
+images/train_28_50.png	Serving size : 20ml
+images/train_28_53.png	Serving per Package : 3 Sachets
+images/train_28_56.png	Per
+images/train_28_59.png	Per Serving
+images/train_28_62.png	(100ml)
+images/train_28_65.png	(20ml)
+images/train_28_68.png	Energy (Kcal)
+images/train_28_71.png	174.00
+images/train_28_74.png	34.80
+images/train_28_77.png	Protein (g)
+images/train_28_80.png	3.50
+images/train_28_83.png	0.70
+images/train_28_86.png	Carbohydrate (g)
+images/train_28_89.png	40.00
+images/train_28_92.png	8.00
+images/train_28_95.png	Fat (g)
+images/train_28_98.png	0.00
+images/train_29_2.png	where
+images/train_29_5.png	do I
+images/train_29_8.png	start
+images/train_29_11.png	with
+images/train_29_14.png	now,
+images/train_30_2.png	Reasoning
+images/train_30_5.png	and
+images/train_30_8.png	Feature
+images/train_30_11.png	Significance
+images/train_31_2.png	Tip:
+images/train_31_5.png	For those with sensitive skin and prone
+images/train_31_8.png	other
+images/train_31_11.png	allergens causing
+images/train_31_14.png	nut
+images/train_31_17.png	and
+images/train_31_20.png	Use the Easy Glide before your activity to
+images/train_31_23.png	to
+images/train_31_26.png	starts and
+images/train_31_29.png	prevent problems before it
+images/train_31_32.png	allergic reactions, it is recommeded to
+images/train_31_35.png	for
+images/train_31_38.png	immediately
+images/train_31_41.png	improve comfort. Ideal
+images/train_31_44.png	apply on small area around body to test.
+images/train_31_47.png	everyday life, work, sports and travel.
+images/train_31_50.png	before applying on larger area
+images/train_31_53.png	prone to chafing and
+images/train_31_56.png	Apply on areas
+images/train_31_59.png	any
+images/train_31_62.png	with
+images/train_31_65.png	use
+images/train_31_68.png	Discontinue
+images/train_31_71.png	barriers.
+images/train_31_74.png	reaction noticed and consult doctor.
+images/train_31_77.png	WARNING
+images/train_31_80.png	This product is for external use only. Do
+images/train_31_83.png	•animal testing
+images/train_31_86.png	keep out of reach of
+images/train_31_89.png	on
+images/train_31_92.png	not consume and
+images/train_31_95.png	petroleum
+images/train_31_98.png	skin.
+images/train_31_101.png	children and animals. Do not apply
+images/train_31_104.png	irritated
+images/train_31_107.png	parabens
+images/train_31_110.png	cuts and
+images/train_31_113.png	would,
+images/train_31_116.png	silicones
+images/train_31_119.png	open
+images/train_31_122.png	Keep at room temperature.
+images/train_31_125.png	preservatives
+images/train_31_128.png	Vegetable Oil,
+images/train_31_131.png	INGREDIENTS
+images/train_31_134.png	Hydrogenated
+images/train_31_137.png	Beeswax,
+images/train_31_140.png	Oil, Glycerin, Cetearyl Alcohol,
+images/train_31_143.png	Best Before: 30 August 2027
+images/train_31_146.png	Coconut
+images/train_31_149.png	Sweet Almond Oil, Menthol
+images/train_31_152.png	CAUTION
+images/train_31_155.png	allergic
+images/train_31_158.png	MADE WITH NATURAL INGREDIENTS
+images/train_31_161.png	NO
+images/train_32_2.png	After
+images/train_32_5.png	I speak
+images/train_32_8.png	follows
+images/train_32_11.png	each
+images/train_32_14.png	word
+images/train_33_2.png	Units/
+images/train_33_5.png	Per/Setiap
+images/train_33_8.png	Per Serving/
+images/train_33_11.png	Unit
+images/train_33_14.png	100g
+images/train_33_17.png	Setiap
+images/train_33_20.png	Nutrition Information/
+images/train_33_23.png	Hidangan
+images/train_33_26.png	Maklumat Pemakanan
+images/train_33_29.png	(230ml)
+images/train_33_32.png	kcal
+images/train_33_35.png	432
+images/train_33_38.png	262
+images/train_33_41.png	KJ
+images/train_33_44.png	1817
+images/train_33_47.png	1101
+images/train_33_50.png	Energy/Tenaga
+images/train_33_53.png	17.33
+images/train_33_56.png	10.50
+images/train_33_59.png	14.00
+images/train_33_62.png	6.48
+images/train_33_65.png	Protein
+images/train_33_68.png	7.60
+images/train_33_71.png	Fat/Lemak
+images/train_33_74.png	.61
+images/train_33_77.png	Monounsaturated Fat/
+images/train_33_80.png	3.53
+images/train_33_83.png	Mono Tak Tepu
+images/train_33_86.png	2.14
+images/train_33_89.png	Polyunsaturated Fat
+images/train_33_92.png	Poli Tak Tepu
+images/train_33_95.png	2.60
+images/train_33_98.png	1.58
+images/train_33_101.png	9
+images/train_33_104.png	Linoleic Acid/
+images/train_33_107.png	Asid Linoleik (Omega-6)
+images/train_33_110.png	0.30
+images/train_33_113.png	0.18
+images/train_33_116.png	g
+images/train_33_119.png	a-linolenic Acid/
+images/train_33_122.png	Asid a-Linolenik (Omega-3)
+images/train_33_125.png	1.57
+images/train_33_128.png	0.95
+images/train_33_131.png	g
+images/train_33_134.png	Saturated Fat/Tepu
+images/train_33_137.png	0.25
+images/train_33_140.png	0.15
+images/train_33_143.png	g
+images/train_33_146.png	Trans Fatty Acids/
+images/train_33_149.png	Asid Lemak Trans
+images/train_33_152.png	0.015
+images/train_33_155.png	0.009
+images/train_33_158.png	g
+images/train_33_161.png	Cholesterol/Kolesterol
+images/train_33_164.png	56.42
+images/train_33_167.png	34.19
+images/train_33_170.png	Carbohydrate/Karbohidrat
+images/train_33_173.png	Oligofructose/
+images/train_33_176.png	4.13
+images/train_33_179.png	2.50
+images/train_33_182.png	Oligofruktosa (FOS)
+images/train_33_185.png	12.50
+images/train_33_188.png	7.58
+images/train_33_191.png	Total Sugars/Jumlah Gula
+images/train_33_194.png	1.50
+images/train_33_197.png	0.91
+images/train_33_200.png	Lactose/Laktosa
+images/train_33_203.png	1.22
+images/train_33_206.png	0.74
+images/train_33_209.png	CaHMB
+images/train_33_212.png	0.98
+images/train_33_215.png	0.59
+images/train_33_218.png	HMB
+images/train_33_221.png	38.0
+images/train_33_224.png	23.0
+images/train_33_227.png	mg
+images/train_33_230.png	L-carritine/L-karnitina
+images/train_33_233.png	43.0
+images/train_33_236.png	26.1
+images/train_33_239.png	mg
+images/train_33_242.png	136.0
+images/train_33_245.png	824
+images/train_33_248.png	Taurine/Taurina
+images/train_33_251.png	mg
+images/train_33_254.png	Choline/Kolina
+images/train_33_257.png	VITAMINS/VITAMIN
+images/train_33_260.png	450
+images/train_33_263.png	273
+images/train_33_266.png	mcg RE
+images/train_33_269.png	1500
+images/train_33_272.png	909
+images/train_33_275.png	Vitamin A
+images/train_33_278.png	1U
+images/train_33_281.png	(Palmitate/Palmitat)
+images/train_33_284.png	20
+images/train_33_287.png	mcg RE
+images/train_33_290.png	Vitamin A
+images/train_33_293.png	1U
+images/train_33_296.png	200
+images/train_33_299.png	(B-carotene/B-keena)
+images/train_33_302.png	7.50
+images/train_33_305.png	12-38
+images/train_33_308.png	mcg
+images/train_33_311.png	Vitamin D
+images/train_33_314.png	495
+images/train_33_317.png	300
+images/train_33_320.png	1U
+images/train_33_323.png	4.8
+images/train_33_326.png	7.9
+images/train_33_329.png	mg α-TE
+images/train_33_332.png	VitaminE
+images/train_33_335.png	11.8
+images/train_33_338.png	7.2
+images/train_33_341.png	1U
+images/train_33_344.png	20.0
+images/train_33_347.png	33.0
+images/train_33_350.png	mcg
+images/train_33_353.png	32.7
+images/train_33_356.png	Vitamin K
+images/train_33_359.png	54.0
+images/train_33_362.png	mg
+images/train_33_365.png	Vitamin C
+images/train_33_368.png	0.48
+images/train_33_371.png	0.80
+images/train_33_374.png	mg
+images/train_33_377.png	Vitamin B
+images/train_33_380.png	0.48
+images/train_33_383.png	0.80
+images/train_33_386.png	mg
+images/train_33_389.png	Vitamin Bz
+images/train_33_392.png	6.13
+images/train_33_395.png	371
+images/train_33_398.png	mg NE
+images/train_33_401.png	Niacin/Niasin
+images/train_33_404.png	0.61
+images/train_33_407.png	1.00
+images/train_33_410.png	mg
+images/train_33_413.png	Vitamin B
+images/train_33_416.png	79
+images/train_33_419.png	130
+images/train_33_422.png	mcg
+images/train_33_425.png	FolicAcid/AsidFolik
+images/train_33_428.png	0.91
+images/train_33_431.png	1.50
+images/train_33_434.png	mcg
+images/train_33_437.png	Vitamin B2
+images/train_33_440.png	10.9
+images/train_33_443.png	18.0
+images/train_33_446.png	mcg
+images/train_33_449.png	Biotin
+images/train_33_452.png	2.55
+images/train_33_455.png	420
+images/train_33_458.png	mg
+images/train_33_461.png	Pantothenic Acid/
+images/train_33_464.png	Asid Pantotenik
+images/train_33_467.png	MINERALS/MINERAL
+images/train_33_470.png	202
+images/train_33_473.png	333
+images/train_33_476.png	Sodium/Natrium
+images/train_33_479.png	mg
+images/train_33_482.png	467
+images/train_33_485.png	770
+images/train_33_488.png	Potassium/Kalium
+images/train_33_491.png	mg
+images/train_33_494.png	248
+images/train_33_497.png	410
+images/train_33_500.png	Chloride/Kiorida
+images/train_33_503.png	mg
+images/train_33_506.png	273
+images/train_33_509.png	450
+images/train_33_512.png	Calcium/Kalsium
+images/train_33_515.png	mg
+images/train_33_518.png	212
+images/train_33_521.png	350
+images/train_33_524.png	Phosphorus/Fosforus
+images/train_33_527.png	mg
+images/train_33_530.png	56.1
+images/train_33_533.png	92.5
+images/train_33_536.png	Magnesium
+images/train_33_539.png	mg
+images/train_33_542.png	242
+images/train_33_545.png	4.00
+images/train_33_548.png	Iron/zat Besi
+images/train_33_551.png	mg
+images/train_33_554.png	2.67
+images/train_33_557.png	4.40
+images/train_33_560.png	Zinc/Zink
+images/train_33_563.png	rng
+images/train_33_566.png	0.85
+images/train_33_569.png	140
+images/train_33_572.png	Manganese/Mangan
+images/train_33_575.png	mg
+images/train_33_578.png	173
+images/train_33_581.png	285
+images/train_33_584.png	Copper/Kuprum
+images/train_33_587.png	mcg
+images/train_33_590.png	38.8
+images/train_33_593.png	64.0
+images/train_33_596.png	lodine/odin
+images/train_33_599.png	mcg
+images/train_33_602.png	133
+images/train_33_605.png	22.0
+images/train_33_608.png	Selenium
+images/train_33_611.png	mcg
+images/train_33_614.png	13.9
+images/train_33_617.png	23.0
+images/train_33_620.png	Chromium/Kromium
+images/train_33_623.png	mcg
+images/train_33_626.png	37.3
+images/train_33_629.png	61.5
+images/train_33_632.png	Molybdenum/Molibdenum
+images/train_33_635.png	mcg
+images/train_34_2.png	There is always that one mountain, you
+images/train_34_5.png	come across within your life. That one
+images/train_34_8.png	mountain which is the most difficult
+images/train_34_11.png	to climb. The one where you almost
+images/train_34_14.png	arrived at the top but you slip; the
+images/train_34_17.png	climbing race starts all over again. I
+images/train_34_20.png	thought that the mountain that
+images/train_34_23.png	I always had a fear to climb because
+images/train_34_26.png	I knew I would fail. In reality, that
+images/train_34_29.png	mountain was placed within my life
+images/train_34_32.png	to train me for the most fearing race
+images/train_34_35.png	of my life
+images/train_35_2.png	as I let go of these memories
+images/train_35_5.png	they will fly
+images/train_35_8.png	towards you,
+images/train_35_11.png	because time
+images/train_35_14.png	casts a spell
+images/train_35_17.png	and
+images/train_35_20.png	you
+images/train_35_23.png	won't
+images/train_35_26.png	forget me
+images/train_35_29.png	once
+images/train_35_32.png	finally
+images/train_35_35.png	forget you.
+images/train_35_38.png	I
+images/train_36_2.png	SERVING SIZE: 150g
+images/train_36_5.png	SERVING PERPACK(BOX):1
+images/train_36_8.png	ENERGY
+images/train_36_11.png	PER 100 g
+images/train_36_14.png	PER SERVING
+images/train_36_17.png	7 kcal
+images/train_36_20.png	FAT
+images/train_36_23.png	10 kcal
+images/train_36_26.png	0g
+images/train_36_29.png	CARBOHYDRATE
+images/train_36_32.png	0g
+images/train_36_35.png	10g
+images/train_36_38.png	TOTAL SUGARS
+images/train_36_41.png	15g
+images/train_36_44.png	0g
+images/train_36_47.png	0g
+images/train_36_50.png	PROTEIN
+images/train_36_53.png	0g
+images/train_36_56.png	SODIUM
+images/train_36_59.png	0g
+images/train_36_62.png	95mg
+images/train_36_65.png	63mg
+images/train_36_68.png	DIETRAY FIBER
+images/train_36_71.png	0.81g
+images/train_36_74.png	0.54g
+images/train_36_77.png	VITAMINC
+images/train_36_80.png	300mg
+images/train_36_83.png	200mg
+images/train_36_86.png	Excessive use can have laxative effect
+images/train_36_89.png	INGREDIENT
+images/train_36_92.png	regulator(INS300) 0.27%. Thickener(INS415), Acidity regulator(INS330), KonjacPowder
+images/train_36_95.png	MANUFACTURED BY
+images/train_36_98.png	Chungcheongbuk-do, 27818, Republic of Korea
+images/train_36_101.png	IMPORTED BY
+images/train_36_104.png	Damansara, 47301 Petaling laya, Selangor, Malaysia
+images/train_36_107.png	OasisDamansara 47301 Petahng Jaya, Selangor, Malaysia
+images/train_36_110.png	EXP.DATE
+images/train_36_113.png	Expiry Date on packaging
+images/train_36_116.png	COUNTRY OF ORIGIN
+images/train_36_119.png	MADEINKOREA
+images/train_36_122.png	Innerset Collagen Konjac Jelly Drink Apple
+images/train_36_125.png	NUTRITION FACTS (AVERAGE VALUES)
+images/train_36_128.png	Purified Water, Sweetener(INS968), Fish collagen Peptide 0.67%, Apple Flavour 0.4%, Acidity
+images/train_36_131.png	0.182%, Acidity regulator(INS331(iii)), Thickener(INS407,407a), Apple Concentrate 0.1%
+images/train_36_134.png	Maltodextrin, Thickener(INS418), Acidity regulator(INS327), Sweetener(INS955)
+images/train_36_137.png	Huons Foodience Co., Ltd. / 709-104, Jingwang-ro, lwol-myeon, Jincheon-gun,
+images/train_36_140.png	Hebron Star Sdn.Bhd. (932373-A)/ Suite 752 Level 7, Brunsfield Oasis Tower 3, Oasis Sqaure Oasis
+images/train_36_143.png	HERRONSTAR MALAYSIA SDN.BHD (1454640-K)/Suite 752 Level 7, Oasis Wing, Brunsfield Oasis Tower
+images/train_37_2.png	(as DL-alpha tocophreyl acetate) 5 IU, Vitamin B1 (as thiamine hydrochloride) 2mg, Vitamin B2 (riboflavin) 2mg, Vitamin B3
+images/train_37_5.png	(nicotinamide)20mg, Vitamin B5 (as calcium D-pantothenate) 5mg. Vitamin B6 (as pyridoxine hydrochloride) 2mg, Vitamin B12 (cyanocabalamin) 12mcg, Folic Acid 400mcg, Calcium (as calcium
+images/train_37_8.png	carbonate) 220mg, Iron (as ferrous fumarate) 10mg, Zinc (as zinc gluconate) 10mg, Magnesium (as magnesium carbonate) 25mg, Copper (as copper sulfate pentahydrate) 0.5mg
+images/train_37_11.png	Active ingredients per tablet
+images/train_37_14.png	Vitamin A (as retinyl acetate) 4500IU, Vitamin C (ascorbic acid) 100mg, Vitamin D3 (cholecalciferol) 10 IU, Vitamin E
+images/train_38_2.png	Nutrition
+images/train_38_5.png	Facts
+images/train_38_8.png	10 servings per
+images/train_38_11.png	container
+images/train_38_14.png	0.180z (5.0g)
+images/train_38_17.png	Serving size
+images/train_38_20.png	Amount per serving
+images/train_38_23.png	15
+images/train_38_26.png	Calories
+images/train_38_29.png	% Daily Value*
+images/train_38_32.png	Total Fat 0g
+images/train_38_35.png	0%
+images/train_38_38.png	Saturated Fat 0g
+images/train_38_41.png	0%
+images/train_38_44.png	Trans Fat 0g
+images/train_38_47.png	Cholesterol 0mg
+images/train_38_50.png	0%
+images/train_38_53.png	Sodium 16mg
+images/train_38_56.png	8%
+images/train_38_59.png	Total carbohydrate 4g
+images/train_38_62.png	1%
+images/train_38_65.png	Dietary Fiber 0g
+images/train_38_68.png	0%
+images/train_38_71.png	Total Sugars 0g
+images/train_38_74.png	Includes 0g Added Sugars
+images/train_38_77.png	0%
+images/train_38_80.png	Erythritol Less than 1g
+images/train_38_83.png	Protein 0g
+images/train_38_86.png	Vit. D 0mcg
+images/train_38_89.png	0%
+images/train_38_92.png	Calcium
+images/train_38_95.png	0mg
+images/train_38_98.png	0%
+images/train_38_101.png	Iron 0mg 0%
+images/train_38_104.png	Potas. 0mg 0%
+images/train_38_107.png	*The%Daily Value (DV) tell you how much a nutrient in
+images/train_38_110.png	a serving of food
+images/train_38_113.png	contributes to a daily diet. 2,000calories
+images/train_38_116.png	a day is used for general
+images/train_38_119.png	nutrition advice.
+images/train_38_122.png	INGREDIENTS:Citric acid, Sodiumbicarbonate,
+images/train_38_125.png	Erthritol, Kombu-
+images/train_38_128.png	cha tea powder (green tea, lemon grass, peppermint, cane sugar,
+images/train_38_131.png	maltodextrin,Digestion-resistant maltodextrin,
+images/train_38_134.png	Hibiscus extract
+images/train_38_137.png	powder
+images/train_38_140.png	Fructoolgosaccharide, 7-species mixed berry extract
+images/train_38_143.png	powder dextrin,blueberry juice concentrate,
+images/train_38_146.png	aronia juice concen-
+images/train_38_149.png	trate, dark sweet cherry concentrate, gum arabic, blackcurrant juice
+images/train_38_152.png	concentrate,
+images/train_38_155.png	raspberry concentrate,
+images/train_38_158.png	cranberry concentrate, black-
+images/train_38_161.png	berry concentrate)
+images/train_38_164.png	Artificialflavor,
+images/train_38_167.png	Sucralose,
+images/train_38_170.png	Probiotics
+images/train_38_173.png	Adds a trivial
+images/train_38_176.png	amount of sugar
+images/train_38_179.png	Contains
+images/train_38_182.png	traces of milk,
+images/train_38_185.png	,soybean
+images/train_41_2.png	daripada capaian kanak-kanak
+images/train_41_5.png	and moisture.
+images/train_41_8.png	MFG:Se packaging (DD/MM/YYYY)
+images/train_41_11.png	EXP: See packaging (DD/MM/YYYY)
+images/train_41_14.png	Lot No.:See packaging
+images/train_41_17.png	Directions for use: Adults-chew 1 tablet once daily after meal. Children 6 - 12 years old - chew 1/2 tablet once daily after meal. Or, as directed by a doctor or pharmacist.
+images/train_41_20.png	No added yeast, wheat, gluten, preservative
+images/train_41_23.png	Indication: As a health supplement.
+images/train_41_26.png	Caution: Keep out of reach of children. Do not use if sensitive to any of ingredients. Unless recommended by a doctor or pharmacist, product is not suitable for children under 6 years old and people with medical condition. Do not use if safety seal is broken. Do not exceed recommended daily intake. Unsuitable for penylketonurics.
+images/train_41_29.png	Jauhkan
+images/train_41_32.png	Store in a cool, dry place below 30C. Keep bottle tightly closed. Avoid direct sunlight.
+images/train_41_35.png	Protect from heat
+images/train_44_2.png	May
+images/train_44_5.png	your words occur
+images/train_45_2.png	NUTRITION FACTS
+images/train_45_5.png	container
+images/train_45_8.png	per
+images/train_45_11.png	1 serving
+images/train_45_14.png	5.92 fl oz(175mL)
+images/train_45_17.png	Size
+images/train_45_20.png	Serving
+images/train_45_23.png	Serving
+images/train_45_26.png	60
+images/train_45_29.png	Amount Per
+images/train_45_32.png	Calories
+images/train_45_35.png	% Daily Value*
+images/train_45_38.png	0g
+images/train_45_41.png	0%
+images/train_45_44.png	Total Fat
+images/train_45_47.png	0g
+images/train_45_50.png	0%
+images/train_45_53.png	Saturated Fat
+images/train_45_56.png	0 mg
+images/train_45_59.png	0%
+images/train_45_62.png	Sodium
+images/train_45_65.png	15g
+images/train_45_68.png	Total Carbohydrate
+images/train_45_71.png	5%
+images/train_45_74.png	14g
+images/train_45_77.png	Sugars
+images/train_45_80.png	Total
+images/train_45_83.png	0g
+images/train_45_86.png	Protein
+images/train_45_89.png	(DV)
+images/train_45_92.png	tells
+images/train_45_95.png	you
+images/train_45_98.png	know
+images/train_45_101.png	how much a
+images/train_45_104.png	The %
+images/train_45_107.png	Daily Value
+images/train_45_110.png	of food
+images/train_45_113.png	contributes to a
+images/train_45_116.png	daily diet
+images/train_45_119.png	nutrient in a serving
+images/train_45_122.png	used for
+images/train_45_125.png	general
+images/train_45_128.png	nutrition advice.
+images/train_45_131.png	2,000 calories a day is
+images/train_45_134.png	NILAI
+images/train_45_137.png	GIZI
+images/train_45_140.png	INFORMASI
+images/train_45_143.png	Saji
+images/train_45_146.png	175ml
+images/train_45_149.png	Takaran
+images/train_45_152.png	1 Sajian
+images/train_45_155.png	per
+images/train_45_158.png	Kemasan
+images/train_45_161.png	JUMLAH PER SAJIAN
+images/train_45_164.png	60
+images/train_45_167.png	kkal
+images/train_45_170.png	Energi
+images/train_45_173.png	%AKG
+images/train_45_176.png	0 g
+images/train_45_179.png	0 %
+images/train_45_182.png	Lemak total
+images/train_45_185.png	0 g
+images/train_45_188.png	0 %
+images/train_45_191.png	Lemak.
+images/train_45_194.png	Jenuh
+images/train_45_197.png	0g
+images/train_45_200.png	0 %
+images/train_45_203.png	Protein
+images/train_45_206.png	159
+images/train_45_209.png	5%
+images/train_45_212.png	Karbohidrat total
+images/train_45_215.png	139
+images/train_45_218.png	Gula total
+images/train_45_221.png	1%
+images/train_45_224.png	Garam(natrium)
+images/train_45_227.png	10mg
+images/train_45_230.png	Persen AKG berdasarkan
+images/train_45_233.png	kebutuhan energi 2150 kkal.
+images/train_45_236.png	Kebutuhan energi anda mungkin lebih tinggi atau
+images/train_45_239.png	lebih rendah.
+images/train_45_242.png	total
+images/train_47_2.png	Sakpal
+images/train_47_5.png	and
+images/train_47_8.png	mother's
+images/train_47_11.png	name
+images/train_47_14.png	was
+images/train_47_17.png	Bhimabai
+images/train_47_20.png	Sakpal
+images/train_47_23.png	He
+images/train_47_26.png	born
+images/train_47_29.png	is
+images/train_47_32.png	Mahar
+images/train_47_35.png	was
+images/train_47_38.png	Caste
+images/train_48_2.png	Directions:
+images/train_48_5.png	Adults:
+images/train_48_8.png	Take
+images/train_48_11.png	one vegetable
+images/train_48_14.png	capsule
+images/train_48_17.png	once
+images/train_48_20.png	daily
+images/train_48_23.png	after any
+images/train_48_26.png	meal
+images/train_48_29.png	or
+images/train_48_32.png	as
+images/train_48_35.png	recommended
+images/train_48_38.png	by a
+images/train_48_41.png	doctor or a pharmacist.
+images/train_48_44.png	Indication: Use as a health
+images/train_48_47.png	supplement.
+images/train_48_50.png	B vitamins help our body to
+images/train_48_53.png	utilize energy and
+images/train_48_56.png	metabolize
+images/train_48_59.png	proteins, fat and
+images/train_48_62.png	carbohydrates.
+images/train_48_65.png	Folic Acid helps in the
+images/train_48_68.png	cells.
+images/train_48_71.png	formation of red blood
+images/train_48_74.png	Choline Bitartrate, Inositol,
+images/train_48_77.png	DI-Methionine & Vit. B6 are
+images/train_48_80.png	lipotropic agents involved in
+images/train_48_83.png	lipid metabolism.
+images/val_2_2.png	Habits form our daily routines. Good
+images/val_2_5.png	and bad. Forming certain ones is
+images/val_2_8.png	what loads us to our dream life.
+images/val_2_11.png	To form good habits (excersising,
+images/val_2_14.png	eatng healthy, tidying) we have
+images/val_2_17.png	to be consistent and commited
+images/val_2_20.png	Especially during times you don't
+images/val_2_23.png	parricularly want to. However, habit
+images/val_2_26.png	only form when we do them
+images/val_17_2.png	Two
+images/val_17_5.png	brothers
+images/val_17_8.png	follow
+images/val_17_11.png	their father's
+images/val_17_14.png	footsteps
+images/val_25_2.png	TEL:+60
+images/val_25_5.png	ORIGINAL
+images/val_25_8.png	FLAVOURED
+images/val_25_11.png	ONION
+images/val_25_14.png	GREEN
+images/val_25_17.png	POTATO CHIPS
+images/val_25_20.png	WHEY
+images/val_25_23.png	SALT,
+images/val_25_26.png	HD
+images/val_25_29.png	OIL,
+images/val_25_32.png	ENHANCER (621),
+images/val_25_35.png	INGREDIENTS
+images/val_25_38.png	ANTIOXIDANTS
+images/val_25_41.png	AND/OR SUNFLOWER
+images/val_25_44.png	POTATOES(62%), CANOLAOL
+images/val_25_47.png	EXTRACT).
+images/val_25_50.png	POWDER
+images/val_25_53.png	(MILK.
+images/val_25_56.png	ONION POWDER,
+images/val_25_59.png	ACID),
+images/val_25_62.png	ACID
+images/val_25_65.png	(CITRIC
+images/val_25_68.png	FOOD
+images/val_25_71.png	PARSLEY),
+images/val_25_74.png	TOURNESOL
+images/val_25_77.png	DE
+images/val_25_80.png	(TOCOPHEROLS,
+images/val_25_83.png	SOY.
+images/val_25_86.png	MILK,
+images/val_25_89.png	SUCRE,
+images/val_25_92.png	EXHAUSTEUR
+images/val_25_95.png	CONTAINS
+images/val_25_98.png	CANOLA ET/OU HUILEL
+images/val_25_101.png	(62%),HUILEDE
+images/val_25_104.png	CITRIQUE),
+images/val_25_107.png	POUDRE D'OIGNON
+images/val_25_110.png	(ACIDE
+images/val_25_113.png	POMMES DE TERRE
+images/val_25_116.png	SEL, POUDRE DELACTOSERUM (LAIT),
+images/val_25_119.png	ALIMENTAIRE
+images/val_25_122.png	ACIDE,
+images/val_25_125.png	EXTRAIT DE
+images/val_25_128.png	(PERSIL),ACIDE
+images/val_25_131.png	ASCORBIQUE
+images/val_25_134.png	(621), HERBE
+images/val_25_137.png	DE GOUT
+images/val_25_140.png	(TOCOPHEROLS,
+images/val_25_143.png	ANTIOXYDANTS
+images/val_25_146.png	AROMES,
+images/val_25_149.png	TDULAIT, SOJA.
+images/val_25_152.png	CONTIENT
+images/val_25_155.png	INFORMATION
+images/val_25_158.png	NUTRITION
+images/val_25_161.png	SERVING SIZE: 27g (About 15 Chips)
+images/val_25_164.png	Quantity
+images/val_25_167.png	SERVINGS PER PACKAGE: 5.6
+images/val_25_170.png	Average
+images/val_25_173.png	% Daily Intake*
+images/val_25_176.png	per100g
+images/val_25_179.png	Quantity
+images/val_25_182.png	Average
+images/val_25_185.png	(per Serving)
+images/val_25_188.png	per Serving
+images/val_25_191.png	2250kj
+images/val_25_194.png	7%
+images/val_25_197.png	6.9g
+images/val_25_200.png	608KJ
+images/val_25_203.png	4%
+images/val_25_206.png	ENERGY
+images/val_25_209.png	NOT DETECTED
+images/val_25_212.png	1.9g
+images/val_25_215.png	PROTEIN, TOTAL
+images/val_25_218.png	33.7g
+images/val_25_221.png	NOT DETECTED
+images/val_25_224.png	13%
+images/val_25_227.png	2.3g
+images/val_25_230.png	-GLUTEN
+images/val_25_233.png	9.1g
+images/val_25_236.png	3%
+images/val_25_239.png	0.3g
+images/val_25_242.png	FAT, TOTAL
+images/val_25_245.png	0.6g
+images/val_25_248.png	10.5g
+images/val_25_251.png	-SATURATED
+images/val_25_254.png	0.1 g
+images/val_25_257.png	20.3g
+images/val_25_260.png	-TRANS
+images/val_25_263.png	2.8g
+images/val_25_266.png	50.88
+images/val_25_269.png	-POLYUNSATURATED
+images/val_25_272.png	2.48
+images/val_25_275.png	5.5
+images/val_25_278.png	4%
+images/val_25_281.png	g
+images/val_25_284.png	m
+images/val_25_287.png	-MONOUNSATURATED
+images/val_25_290.png	811m
+images/val_25_293.png	13.7g
+images/val_25_296.png	1%
+images/val_25_299.png	m
+images/val_25_302.png	CARBOHYDRATE
+images/val_25_305.png	1360
+images/val_25_308.png	-SUGARS
+images/val_25_311.png	0.6g
+images/val_25_314.png	10%
+images/val_25_317.png	SODIUM
+images/val_25_320.png	mg
+images/val_25_323.png	219
+images/val_25_326.png	diet ot 8700
+images/val_25_329.png	POTASSIUM
+images/val_25_332.png	mg
+images/val_25_335.png	368
+images/val_25_338.png	average adult
+images/val_25_341.png	on an
+images/val_25_344.png	Percentage
+images/val_25_347.png	based
+images/val_25_350.png	Daily
+images/val_25_353.png	Intakes
+images/val_25_356.png	are
+images/val_25_359.png	lower
+images/val_25_362.png	Your daily
+images/val_25_365.png	intakes may
+images/val_25_368.png	higher or
+images/val_25_371.png	be
+images/val_25_374.png	VARIATION
+images/val_25_377.png	ROMARIN).
+images/val_25_380.png	AVERAGE VALUES SUBJECT TO SEASONAL
+images/val_26_2.png	Keep
+images/val_26_5.png	out
+images/val_26_8.png	reach
+images/val_26_11.png	of
+images/val_26_14.png	MAGNESIUM:
+images/val_26_17.png	of
+images/val_26_20.png	BLACKMORES
+images/val_26_23.png	children.
+images/val_26_26.png	Jauhi
+images/val_26_29.png	daripada
+images/val_26_32.png	maintenance of
+images/val_26_35.png	Helps in
+images/val_26_38.png	kanak-kanak.
+images/val_26_41.png	Store
+images/val_26_44.png	below
+images/val_26_47.png	good heath
+images/val_26_50.png	30 ℃
+images/val_26_53.png	in a dry
+images/val_26_56.png	place
+images/val_26_59.png	Health
+images/val_26_62.png	away
+images/val_26_65.png	Indication:
+images/val_26_68.png	from
+images/val_26_71.png	direct
+images/val_26_74.png	sunlight.
+images/val_26_77.png	supplement
+images/val_26_80.png	HOWTOUSE:
+images/val_26_83.png	ACTIVE INGREDIENT PER TABLET:
+images/val_26_86.png	Adults -
+images/val_26_89.png	-Take
+images/val_26_92.png	2 tablets,
+images/val_26_95.png	Magnesium
+images/val_26_98.png	37.4
+images/val_26_101.png	(from
+images/val_26_104.png	mg
+images/val_26_107.png	times day
+images/val_26_110.png	with
+images/val_26_113.png	meal
+images/val_26_116.png	or
+images/val_26_119.png	magnesium
+images/val_26_122.png	aspartate
+images/val_26_125.png	as recommended
+images/val_26_128.png	bya
+images/val_26_131.png	500
+images/val_26_134.png	mg).
+images/val_26_137.png	dihydrate
+images/val_26_140.png	doctor
+images/val_26_143.png	rorpharmacist.
+images/val_26_146.png	yeast,
+images/val_26_149.png	gluten,
+images/val_26_152.png	No added
+images/val_26_155.png	Children
+images/val_26_158.png	(6-12
+images/val_26_161.png	years)
+images/val_26_164.png	Take
+images/val_26_167.png	wheat,
+images/val_26_170.png	derivatives,
+images/val_26_173.png	milk
+images/val_26_176.png	2 tablets
+images/val_26_179.png	once
+images/val_26_182.png	daily
+images/val_26_185.png	with a
+images/val_26_188.png	artificial
+images/val_26_191.png	meal,
+images/val_26_194.png	a
+images/val_26_197.png	preservatives,
+images/val_26_200.png	or
+images/val_26_203.png	as
+images/val_26_206.png	recommended
+images/val_26_209.png	by a doctor
+images/val_26_212.png	flavours
+images/val_26_215.png	sweeteners.
+images/val_26_218.png	or
+images/val_26_221.png	or
+images/val_26_224.png	pharmacist.
+images/val_27_2.png	SURROUND
+images/val_27_5.png	YOURSELF
+images/val_27_8.png	with
+images/val_27_11.png	those
+images/val_27_14.png	hope
+images/val_27_17.png	that
+images/val_27_20.png	you
+images/val_27_23.png	those
+images/val_27_26.png	who
+images/val_27_29.png	help
+images/val_27_32.png	who
+images/val_27_35.png	bring
+images/val_27_38.png	you
+images/val_27_41.png	up
+images/val_27_44.png	with
+images/val_27_47.png	YOU
+images/val_27_50.png	be
+images/val_27_53.png	YOUR
+images/val_27_56.png	TRUE
+images/val_27_59.png	self.
+images/val_27_62.png	have fallen
+images/val_27_65.png	in
+images/val_27_68.png	love
+images/val_27_71.png	nor
+images/val_27_74.png	hope
+images/val_27_77.png	that
+images/val_27_80.png	YOU
+images/val_27_83.png	I
+images/val_27_86.png	significant
+images/val_27_89.png	other
+images/val_27_92.png	but
+images/val_27_95.png	necessarily
+images/val_27_98.png	with
+images/val_27_101.png	a
+images/val_27_104.png	I
+images/val_39_2.png	you may
+images/val_39_5.png	not
+images/val_39_8.png	always
+images/val_39_11.png	appear.
+images/val_40_2.png	So you think its cool stabbing and plung
+images/val_40_5.png	ing knifes through my cousins chest, as
+images/val_40_8.png	he ues there and bleeds to death you
+images/val_40_11.png	don't see the pain which makes me as a
+images/val_40_14.png	human being stress, as the victims beloved
+images/val_40_17.png	parents screams, and develops depress. so
+images/val_40_20.png	you think you have some cool repetation,
+images/val_40_23.png	taning my innocents cousins wife, as his
+images/val_40_26.png	parents cry all day and night. Did you
+images/val_40_29.png	ever think how my family may feel as
+images/val_40_32.png	each one of us kneel and beg God to
+images/val_42_2.png	Facts
+images/val_42_5.png	Nutrition
+images/val_42_8.png	Container
+images/val_42_11.png	OZ)
+images/val_42_14.png	Per
+images/val_42_17.png	(0.5
+images/val_42_20.png	15g
+images/val_42_23.png	Servings
+images/val_42_26.png	8
+images/val_42_29.png	Size:
+images/val_42_32.png	Serving
+images/val_42_35.png	Serving
+images/val_42_38.png	Per
+images/val_42_41.png	55
+images/val_42_44.png	Amount
+images/val_42_47.png	Calories
+images/val_42_50.png	%
+images/val_42_53.png	Daily
+images/val_42_56.png	Value*
+images/val_42_59.png	1g
+images/val_42_62.png	0%
+images/val_42_65.png	Total
+images/val_42_68.png	Fat
+images/val_42_71.png	1g
+images/val_42_74.png	Fat
+images/val_42_77.png	0%
+images/val_42_80.png	Saturated
+images/val_42_83.png	0g
+images/val_42_86.png	Trans
+images/val_42_89.png	Fat
+images/val_42_92.png	0mg
+images/val_42_95.png	Cholesterol
+images/val_42_98.png	0%
+images/val_42_101.png	3mg
+images/val_42_104.png	Sodium
+images/val_42_107.png	0%
+images/val_42_110.png	11g
+images/val_42_113.png	Total
+images/val_42_116.png	Carbohydrate
+images/val_42_119.png	1%
+images/val_42_122.png	Fiber
+images/val_42_125.png	og
+images/val_42_128.png	Dietary
+images/val_42_131.png	0%
+images/val_42_134.png	Total
+images/val_42_137.png	Sugars
+images/val_42_140.png	39
+images/val_42_143.png	29
+images/val_42_146.png	Sugars
+images/val_42_149.png	4%
+images/val_42_152.png	Includes
+images/val_42_155.png	Added
+images/val_42_158.png	Protein
+images/val_42_161.png	0g
+images/val_42_164.png	0%
+images/val_42_167.png	0mcg
+images/val_42_170.png	Vitamin
+images/val_42_173.png	D
+images/val_42_176.png	0%
+images/val_42_179.png	5mg
+images/val_42_182.png	Calcium
+images/val_42_185.png	0%
+images/val_42_188.png	0mg
+images/val_42_191.png	Iron
+images/val_42_194.png	0%
+images/val_42_197.png	8mg
+images/val_42_200.png	Potassium
+images/val_42_203.png	in
+images/val_42_206.png	nutrient
+images/val_42_209.png	a
+images/val_42_212.png	much
+images/val_42_215.png	tells
+images/val_42_218.png	how
+images/val_42_221.png	*The
+images/val_42_224.png	%
+images/val_42_227.png	Daily
+images/val_42_230.png	Value
+images/val_42_233.png	you
+images/val_42_236.png	2,000
+images/val_42_239.png	diet.
+images/val_42_242.png	daily
+images/val_42_245.png	toa
+images/val_42_248.png	of
+images/val_42_251.png	advice.
+images/val_42_254.png	serving
+images/val_42_257.png	food
+images/val_42_260.png	contributes
+images/val_42_263.png	a
+images/val_42_266.png	nutrition
+images/val_42_269.png	calories a
+images/val_42_272.png	day
+images/val_42_275.png	is
+images/val_42_278.png	for
+images/val_42_281.png	general
+images/val_42_284.png	used
+images/val_43_2.png	Antioxidant
+images/val_43_5.png	Canola Oil [Protected with
+images/val_43_8.png	INGREDIENTS:
+images/val_43_11.png	Water Free Range Egg (5%).
+images/val_43_14.png	Vinegar
+images/val_43_17.png	(307b)]. White
+images/val_43_20.png	Mustard Seds), Salt, Garlic
+images/val_43_23.png	Including
+images/val_43_26.png	Sugar.
+images/val_43_29.png	Mustard
+images/val_43_32.png	, Antioxidant (385).
+images/val_43_35.png	(412, 415),
+images/val_43_38.png	Stabilisers
+images/val_43_41.png	(0.9%).
+images/val_43_44.png	Paste
+images/val_43_47.png	Contains: Egg.
+images/val_43_50.png	NO ADDED FLAVOURS ARTIFICIAL COLOURS
+images/val_43_53.png	May Contain: Soy
+images/val_43_56.png	,
+images/val_43_59.png	513 King St North.
+images/val_43_62.png	Australia.Toll free 0800 653 050 (NZ), 1800 037 058 (AU).
+images/val_43_65.png	Manufactured by Heinz Watti's Lid.
+images/val_43_68.png	3006.
+images/val_43_71.png	.Victoria
+images/val_43_74.png	HEINZ.COM.AU
+images/val_43_77.png	2 Southbank Blvd, SouthbaNk
+images/val_43_80.png	Refrigerate after opening.
+images/val_43_83.png	NUTRITION INFORMATION
+images/val_43_86.png	SERVINGS PER PACKAGE: AppioX.11.5
+images/val_43_89.png	SERVING SIZE:25mL
+images/val_43_92.png	Avg. Quantity
+images/val_43_95.png	Avg.Quantity
+images/val_43_98.png	per 100mL
+images/val_43_101.png	per Serving
+images/val_43_104.png	2530kJ
+images/val_43_107.png	630kJ
+images/val_43_110.png	ENERGY
+images/val_43_113.png	0.8g
+images/val_43_116.png	0.2g
+images/val_43_119.png	PROTEIN
+images/val_43_122.png	66.2g
+images/val_43_125.png	16.5g
+images/val_43_128.png	FAT, TOTAL
+images/val_43_131.png	5.5g
+images/val_43_134.png	1.4g
+images/val_43_137.png	-SATURATED
+images/val_43_140.png	3.1g
+images/val_43_143.png	0.8g
+images/val_43_146.png	CARBOHYDRATE
+images/val_43_149.png	300657021450
+images/val_43_152.png	2.8g
+images/val_43_155.png	9
+images/val_43_158.png	0.79
+images/val_43_161.png	-SUGARS
+images/val_43_164.png	580mg
+images/val_43_167.png	Seal
+images/val_43_170.png	ND·DJO
+images/val_43_173.png	145mg
+images/val_43_176.png	Cap
+images/val_43_179.png	SODIUM
+images/val_43_182.png	Bottle
+images/val_43_185.png	TMT
+images/val_43_188.png	Trademark
+images/val_43_191.png	Registered Trademark
+images/val_43_194.png	©H.J. Heinz Co Australia Ltd
+images/val_43_197.png	New
+images/val_43_200.png	Zealand
+images/val_43_203.png	Made in
+images/val_43_206.png	Scrunch Bottle
+images/val_43_209.png	ingredients
+images/val_43_212.png	and local
+images/val_43_215.png	&Reploce Cap
+images/val_43_218.png	from
+images/val_43_221.png	imported
+images/val_43_224.png	AustLtd,
+images/val_43_227.png	4122, New Zealand for H.J.Heinz Company
+images/val_43_230.png	Hastings
+images/val_43_233.png	SERIOUSLYGOOD.CO.NZ
+images/val_43_236.png	AIOLI
+images/val_46_2.png	unsupervised
+images/val_46_5.png	learning

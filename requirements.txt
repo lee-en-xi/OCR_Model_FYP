@@ -1,0 +1,10 @@
+flask
+easyocr
+pillow
+gunicorn
+opencv-python-headless
+numpy
+paddlepaddle>=2.4.0  # Core PaddlePaddle library
+paddleocr>=2.6.1.3   # Must include PPStructureV3
+shapely              # Required for PaddleOCR geometry ops
+pyclipper            # Required for PaddleOCR

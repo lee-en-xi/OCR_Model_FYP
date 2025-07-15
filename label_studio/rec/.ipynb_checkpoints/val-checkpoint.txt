@@ -1,0 +1,442 @@
+images/val_2_2.png	Habits form our daily routines. Good
+images/val_2_5.png	and bad. Forming certain ones is
+images/val_2_8.png	what loads us to our dream life.
+images/val_2_11.png	To form good habits (excersising,
+images/val_2_14.png	eatng healthy, tidying) we have
+images/val_2_17.png	to be consistent and commited
+images/val_2_20.png	Especially during times you don't
+images/val_2_23.png	parricularly want to. However, habit
+images/val_2_26.png	only form when we do them
+images/val_17_2.png	Two
+images/val_17_5.png	brothers
+images/val_17_8.png	follow
+images/val_17_11.png	their father's
+images/val_17_14.png	footsteps
+images/val_25_2.png	TEL:+60
+images/val_25_5.png	ORIGINAL
+images/val_25_8.png	FLAVOURED
+images/val_25_11.png	ONION
+images/val_25_14.png	GREEN
+images/val_25_17.png	POTATO CHIPS
+images/val_25_20.png	WHEY
+images/val_25_23.png	SALT,
+images/val_25_26.png	HD
+images/val_25_29.png	OIL,
+images/val_25_32.png	ENHANCER (621),
+images/val_25_35.png	INGREDIENTS
+images/val_25_38.png	ANTIOXIDANTS
+images/val_25_41.png	AND/OR SUNFLOWER
+images/val_25_44.png	POTATOES(62%), CANOLAOL
+images/val_25_47.png	EXTRACT).
+images/val_25_50.png	POWDER
+images/val_25_53.png	(MILK.
+images/val_25_56.png	ONION POWDER,
+images/val_25_59.png	ACID),
+images/val_25_62.png	ACID
+images/val_25_65.png	(CITRIC
+images/val_25_68.png	FOOD
+images/val_25_71.png	PARSLEY),
+images/val_25_74.png	TOURNESOL
+images/val_25_77.png	DE
+images/val_25_80.png	(TOCOPHEROLS,
+images/val_25_83.png	SOY.
+images/val_25_86.png	MILK,
+images/val_25_89.png	SUCRE,
+images/val_25_92.png	EXHAUSTEUR
+images/val_25_95.png	CONTAINS
+images/val_25_98.png	CANOLA ET/OU HUILEL
+images/val_25_101.png	(62%),HUILEDE
+images/val_25_104.png	CITRIQUE),
+images/val_25_107.png	POUDRE D'OIGNON
+images/val_25_110.png	(ACIDE
+images/val_25_113.png	POMMES DE TERRE
+images/val_25_116.png	SEL, POUDRE DELACTOSERUM (LAIT),
+images/val_25_119.png	ALIMENTAIRE
+images/val_25_122.png	ACIDE,
+images/val_25_125.png	EXTRAIT DE
+images/val_25_128.png	(PERSIL),ACIDE
+images/val_25_131.png	ASCORBIQUE
+images/val_25_134.png	(621), HERBE
+images/val_25_137.png	DE GOUT
+images/val_25_140.png	(TOCOPHEROLS,
+images/val_25_143.png	ANTIOXYDANTS
+images/val_25_146.png	AROMES,
+images/val_25_149.png	TDULAIT, SOJA.
+images/val_25_152.png	CONTIENT
+images/val_25_155.png	INFORMATION
+images/val_25_158.png	NUTRITION
+images/val_25_161.png	SERVING SIZE: 27g (About 15 Chips)
+images/val_25_164.png	Quantity
+images/val_25_167.png	SERVINGS PER PACKAGE: 5.6
+images/val_25_170.png	Average
+images/val_25_173.png	% Daily Intake*
+images/val_25_176.png	per100g
+images/val_25_179.png	Quantity
+images/val_25_182.png	Average
+images/val_25_185.png	(per Serving)
+images/val_25_188.png	per Serving
+images/val_25_191.png	2250kj
+images/val_25_194.png	7%
+images/val_25_197.png	6.9g
+images/val_25_200.png	608KJ
+images/val_25_203.png	4%
+images/val_25_206.png	ENERGY
+images/val_25_209.png	NOT DETECTED
+images/val_25_212.png	1.9g
+images/val_25_215.png	PROTEIN, TOTAL
+images/val_25_218.png	33.7g
+images/val_25_221.png	NOT DETECTED
+images/val_25_224.png	13%
+images/val_25_227.png	2.3g
+images/val_25_230.png	-GLUTEN
+images/val_25_233.png	9.1g
+images/val_25_236.png	3%
+images/val_25_239.png	0.3g
+images/val_25_242.png	FAT, TOTAL
+images/val_25_245.png	0.6g
+images/val_25_248.png	10.5g
+images/val_25_251.png	-SATURATED
+images/val_25_254.png	0.1 g
+images/val_25_257.png	20.3g
+images/val_25_260.png	-TRANS
+images/val_25_263.png	2.8g
+images/val_25_266.png	50.88
+images/val_25_269.png	-POLYUNSATURATED
+images/val_25_272.png	2.48
+images/val_25_275.png	5.5
+images/val_25_278.png	4%
+images/val_25_281.png	g
+images/val_25_284.png	m
+images/val_25_287.png	-MONOUNSATURATED
+images/val_25_290.png	811m
+images/val_25_293.png	13.7g
+images/val_25_296.png	1%
+images/val_25_299.png	m
+images/val_25_302.png	CARBOHYDRATE
+images/val_25_305.png	1360
+images/val_25_308.png	-SUGARS
+images/val_25_311.png	0.6g
+images/val_25_314.png	10%
+images/val_25_317.png	SODIUM
+images/val_25_320.png	mg
+images/val_25_323.png	219
+images/val_25_326.png	diet ot 8700
+images/val_25_329.png	POTASSIUM
+images/val_25_332.png	mg
+images/val_25_335.png	368
+images/val_25_338.png	average adult
+images/val_25_341.png	on an
+images/val_25_344.png	Percentage
+images/val_25_347.png	based
+images/val_25_350.png	Daily
+images/val_25_353.png	Intakes
+images/val_25_356.png	are
+images/val_25_359.png	lower
+images/val_25_362.png	Your daily
+images/val_25_365.png	intakes may
+images/val_25_368.png	higher or
+images/val_25_371.png	be
+images/val_25_374.png	VARIATION
+images/val_25_377.png	ROMARIN).
+images/val_25_380.png	AVERAGE VALUES SUBJECT TO SEASONAL
+images/val_26_2.png	Keep
+images/val_26_5.png	out
+images/val_26_8.png	reach
+images/val_26_11.png	of
+images/val_26_14.png	MAGNESIUM:
+images/val_26_17.png	of
+images/val_26_20.png	BLACKMORES
+images/val_26_23.png	children.
+images/val_26_26.png	Jauhi
+images/val_26_29.png	daripada
+images/val_26_32.png	maintenance of
+images/val_26_35.png	Helps in
+images/val_26_38.png	kanak-kanak.
+images/val_26_41.png	Store
+images/val_26_44.png	below
+images/val_26_47.png	good heath
+images/val_26_50.png	30 ℃
+images/val_26_53.png	in a dry
+images/val_26_56.png	place
+images/val_26_59.png	Health
+images/val_26_62.png	away
+images/val_26_65.png	Indication:
+images/val_26_68.png	from
+images/val_26_71.png	direct
+images/val_26_74.png	sunlight.
+images/val_26_77.png	supplement
+images/val_26_80.png	HOWTOUSE:
+images/val_26_83.png	ACTIVE INGREDIENT PER TABLET:
+images/val_26_86.png	Adults -
+images/val_26_89.png	-Take
+images/val_26_92.png	2 tablets,
+images/val_26_95.png	Magnesium
+images/val_26_98.png	37.4
+images/val_26_101.png	(from
+images/val_26_104.png	mg
+images/val_26_107.png	times day
+images/val_26_110.png	with
+images/val_26_113.png	meal
+images/val_26_116.png	or
+images/val_26_119.png	magnesium
+images/val_26_122.png	aspartate
+images/val_26_125.png	as recommended
+images/val_26_128.png	bya
+images/val_26_131.png	500
+images/val_26_134.png	mg).
+images/val_26_137.png	dihydrate
+images/val_26_140.png	doctor
+images/val_26_143.png	rorpharmacist.
+images/val_26_146.png	yeast,
+images/val_26_149.png	gluten,
+images/val_26_152.png	No added
+images/val_26_155.png	Children
+images/val_26_158.png	(6-12
+images/val_26_161.png	years)
+images/val_26_164.png	Take
+images/val_26_167.png	wheat,
+images/val_26_170.png	derivatives,
+images/val_26_173.png	milk
+images/val_26_176.png	2 tablets
+images/val_26_179.png	once
+images/val_26_182.png	daily
+images/val_26_185.png	with a
+images/val_26_188.png	artificial
+images/val_26_191.png	meal,
+images/val_26_194.png	a
+images/val_26_197.png	preservatives,
+images/val_26_200.png	or
+images/val_26_203.png	as
+images/val_26_206.png	recommended
+images/val_26_209.png	by a doctor
+images/val_26_212.png	flavours
+images/val_26_215.png	sweeteners.
+images/val_26_218.png	or
+images/val_26_221.png	or
+images/val_26_224.png	pharmacist.
+images/val_27_2.png	SURROUND
+images/val_27_5.png	YOURSELF
+images/val_27_8.png	with
+images/val_27_11.png	those
+images/val_27_14.png	hope
+images/val_27_17.png	that
+images/val_27_20.png	you
+images/val_27_23.png	those
+images/val_27_26.png	who
+images/val_27_29.png	help
+images/val_27_32.png	who
+images/val_27_35.png	bring
+images/val_27_38.png	you
+images/val_27_41.png	up
+images/val_27_44.png	with
+images/val_27_47.png	YOU
+images/val_27_50.png	be
+images/val_27_53.png	YOUR
+images/val_27_56.png	TRUE
+images/val_27_59.png	self.
+images/val_27_62.png	have fallen
+images/val_27_65.png	in
+images/val_27_68.png	love
+images/val_27_71.png	nor
+images/val_27_74.png	hope
+images/val_27_77.png	that
+images/val_27_80.png	YOU
+images/val_27_83.png	I
+images/val_27_86.png	significant
+images/val_27_89.png	other
+images/val_27_92.png	but
+images/val_27_95.png	necessarily
+images/val_27_98.png	with
+images/val_27_101.png	a
+images/val_27_104.png	I
+images/val_39_2.png	you may
+images/val_39_5.png	not
+images/val_39_8.png	always
+images/val_39_11.png	appear.
+images/val_40_2.png	So you think its cool stabbing and plung
+images/val_40_5.png	ing knifes through my cousins chest, as
+images/val_40_8.png	he ues there and bleeds to death you
+images/val_40_11.png	don't see the pain which makes me as a
+images/val_40_14.png	human being stress, as the victims beloved
+images/val_40_17.png	parents screams, and develops depress. so
+images/val_40_20.png	you think you have some cool repetation,
+images/val_40_23.png	taning my innocents cousins wife, as his
+images/val_40_26.png	parents cry all day and night. Did you
+images/val_40_29.png	ever think how my family may feel as
+images/val_40_32.png	each one of us kneel and beg God to
+images/val_42_2.png	Facts
+images/val_42_5.png	Nutrition
+images/val_42_8.png	Container
+images/val_42_11.png	OZ)
+images/val_42_14.png	Per
+images/val_42_17.png	(0.5
+images/val_42_20.png	15g
+images/val_42_23.png	Servings
+images/val_42_26.png	8
+images/val_42_29.png	Size:
+images/val_42_32.png	Serving
+images/val_42_35.png	Serving
+images/val_42_38.png	Per
+images/val_42_41.png	55
+images/val_42_44.png	Amount
+images/val_42_47.png	Calories
+images/val_42_50.png	%
+images/val_42_53.png	Daily
+images/val_42_56.png	Value*
+images/val_42_59.png	1g
+images/val_42_62.png	0%
+images/val_42_65.png	Total
+images/val_42_68.png	Fat
+images/val_42_71.png	1g
+images/val_42_74.png	Fat
+images/val_42_77.png	0%
+images/val_42_80.png	Saturated
+images/val_42_83.png	0g
+images/val_42_86.png	Trans
+images/val_42_89.png	Fat
+images/val_42_92.png	0mg
+images/val_42_95.png	Cholesterol
+images/val_42_98.png	0%
+images/val_42_101.png	3mg
+images/val_42_104.png	Sodium
+images/val_42_107.png	0%
+images/val_42_110.png	11g
+images/val_42_113.png	Total
+images/val_42_116.png	Carbohydrate
+images/val_42_119.png	1%
+images/val_42_122.png	Fiber
+images/val_42_125.png	og
+images/val_42_128.png	Dietary
+images/val_42_131.png	0%
+images/val_42_134.png	Total
+images/val_42_137.png	Sugars
+images/val_42_140.png	39
+images/val_42_143.png	29
+images/val_42_146.png	Sugars
+images/val_42_149.png	4%
+images/val_42_152.png	Includes
+images/val_42_155.png	Added
+images/val_42_158.png	Protein
+images/val_42_161.png	0g
+images/val_42_164.png	0%
+images/val_42_167.png	0mcg
+images/val_42_170.png	Vitamin
+images/val_42_173.png	D
+images/val_42_176.png	0%
+images/val_42_179.png	5mg
+images/val_42_182.png	Calcium
+images/val_42_185.png	0%
+images/val_42_188.png	0mg
+images/val_42_191.png	Iron
+images/val_42_194.png	0%
+images/val_42_197.png	8mg
+images/val_42_200.png	Potassium
+images/val_42_203.png	in
+images/val_42_206.png	nutrient
+images/val_42_209.png	a
+images/val_42_212.png	much
+images/val_42_215.png	tells
+images/val_42_218.png	how
+images/val_42_221.png	*The
+images/val_42_224.png	%
+images/val_42_227.png	Daily
+images/val_42_230.png	Value
+images/val_42_233.png	you
+images/val_42_236.png	2,000
+images/val_42_239.png	diet.
+images/val_42_242.png	daily
+images/val_42_245.png	toa
+images/val_42_248.png	of
+images/val_42_251.png	advice.
+images/val_42_254.png	serving
+images/val_42_257.png	food
+images/val_42_260.png	contributes
+images/val_42_263.png	a
+images/val_42_266.png	nutrition
+images/val_42_269.png	calories a
+images/val_42_272.png	day
+images/val_42_275.png	is
+images/val_42_278.png	for
+images/val_42_281.png	general
+images/val_42_284.png	used
+images/val_43_2.png	Antioxidant
+images/val_43_5.png	Canola Oil [Protected with
+images/val_43_8.png	INGREDIENTS:
+images/val_43_11.png	Water Free Range Egg (5%).
+images/val_43_14.png	Vinegar
+images/val_43_17.png	(307b)]. White
+images/val_43_20.png	Mustard Seds), Salt, Garlic
+images/val_43_23.png	Including
+images/val_43_26.png	Sugar.
+images/val_43_29.png	Mustard
+images/val_43_32.png	, Antioxidant (385).
+images/val_43_35.png	(412, 415),
+images/val_43_38.png	Stabilisers
+images/val_43_41.png	(0.9%).
+images/val_43_44.png	Paste
+images/val_43_47.png	Contains: Egg.
+images/val_43_50.png	NO ADDED FLAVOURS ARTIFICIAL COLOURS
+images/val_43_53.png	May Contain: Soy
+images/val_43_56.png	,
+images/val_43_59.png	513 King St North.
+images/val_43_62.png	Australia.Toll free 0800 653 050 (NZ), 1800 037 058 (AU).
+images/val_43_65.png	Manufactured by Heinz Watti's Lid.
+images/val_43_68.png	3006.
+images/val_43_71.png	.Victoria
+images/val_43_74.png	HEINZ.COM.AU
+images/val_43_77.png	2 Southbank Blvd, SouthbaNk
+images/val_43_80.png	Refrigerate after opening.
+images/val_43_83.png	NUTRITION INFORMATION
+images/val_43_86.png	SERVINGS PER PACKAGE: AppioX.11.5
+images/val_43_89.png	SERVING SIZE:25mL
+images/val_43_92.png	Avg. Quantity
+images/val_43_95.png	Avg.Quantity
+images/val_43_98.png	per 100mL
+images/val_43_101.png	per Serving
+images/val_43_104.png	2530kJ
+images/val_43_107.png	630kJ
+images/val_43_110.png	ENERGY
+images/val_43_113.png	0.8g
+images/val_43_116.png	0.2g
+images/val_43_119.png	PROTEIN
+images/val_43_122.png	66.2g
+images/val_43_125.png	16.5g
+images/val_43_128.png	FAT, TOTAL
+images/val_43_131.png	5.5g
+images/val_43_134.png	1.4g
+images/val_43_137.png	-SATURATED
+images/val_43_140.png	3.1g
+images/val_43_143.png	0.8g
+images/val_43_146.png	CARBOHYDRATE
+images/val_43_149.png	300657021450
+images/val_43_152.png	2.8g
+images/val_43_155.png	9
+images/val_43_158.png	0.79
+images/val_43_161.png	-SUGARS
+images/val_43_164.png	580mg
+images/val_43_167.png	Seal
+images/val_43_170.png	ND·DJO
+images/val_43_173.png	145mg
+images/val_43_176.png	Cap
+images/val_43_179.png	SODIUM
+images/val_43_182.png	Bottle
+images/val_43_185.png	TMT
+images/val_43_188.png	Trademark
+images/val_43_191.png	Registered Trademark
+images/val_43_194.png	©H.J. Heinz Co Australia Ltd
+images/val_43_197.png	New
+images/val_43_200.png	Zealand
+images/val_43_203.png	Made in
+images/val_43_206.png	Scrunch Bottle
+images/val_43_209.png	ingredients
+images/val_43_212.png	and local
+images/val_43_215.png	&Reploce Cap
+images/val_43_218.png	from
+images/val_43_221.png	imported
+images/val_43_224.png	AustLtd,
+images/val_43_227.png	4122, New Zealand for H.J.Heinz Company
+images/val_43_230.png	Hastings
+images/val_43_233.png	SERIOUSLYGOOD.CO.NZ
+images/val_43_236.png	AIOLI
+images/val_46_2.png	unsupervised
+images/val_46_5.png	learning
