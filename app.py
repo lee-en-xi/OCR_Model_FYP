@@ -86,7 +86,7 @@ def process_image_file(file):
             img = Image.open(io.BytesIO(img_bytes))
             if img.mode != 'RGB':
                 img = img.convert('RGB')
-            img_array = np }}">
+            img_array = np.array(img)
         logger.info(f"Image processed. Shape: {img_array.shape}, Type: {img_array.dtype}")
         return img_array
     except Exception as e:
