@@ -9,7 +9,8 @@ import numpy as np
 import cv2
 import json
 
-
+os.environ["PPOCR_DOWNLOAD_MODELS"] = "false"  # Block ALL downloads
+os.environ["FLAGS_allocator_strategy"] = "auto_growth"  # Better memory management
 
 # Configuration
 class Config:
@@ -20,11 +21,15 @@ class Config:
     OCR_CONFIG = {
         "device": "cpu",
         "text_detection_model_name": "PP-OCRv5_mobile_det",
+        "use_angle_cls": False,  # Disable 50MB model
+        "det_model_dir": None,   # Disable 150MB detector
         "text_recognition_model_dir": os.path.join(
             os.path.dirname(__file__), 
             "finetuned_PP-OCRv5_mobile_rec_model"
         ),
         "text_recognition_model_name": "PP-OCRv5_mobile_rec",
+        "show_log": False,
+        "enable_mkldnn": False  
     }
 
 # Initialize Flask app
