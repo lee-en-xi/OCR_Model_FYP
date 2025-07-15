@@ -202,7 +202,7 @@ def ocr_endpoint():
             "timestamp": datetime.utcnow().isoformat()
         }), 500
 
-@app.route('/health')
+@app.route('/')
 def health_check():
     """Health check endpoint for Render"""
     status = {
