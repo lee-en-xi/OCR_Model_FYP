@@ -9,9 +9,7 @@ import numpy as np
 import cv2
 import json
 
-os.environ["PPOCR_DOWNLOAD_MODELS"] = "false"  # BLOCK auto-downloads
-os.environ["FLAGS_allocator_strategy"] = "naive_best_fit"  # Memory optimization
-os.environ["FLAGS_fraction_of_gpu_memory_to_use"] = "0.1"  # Even on CPU
+
 
 # Configuration
 class Config:
@@ -21,16 +19,12 @@ class Config:
     OCR_TIMEOUT = 300  # 5 minutes timeout for OCR processing
     OCR_CONFIG = {
         "device": "cpu",
-        "use_angle_cls": False,  # Disables ~50MB model
-        "det_model_dir": None,    # Disables 150MB detector
         "text_detection_model_name": "PP-OCRv5_mobile_det",
         "text_recognition_model_dir": os.path.join(
             os.path.dirname(__file__), 
             "finetuned_PP-OCRv5_mobile_rec_model"
         ),
         "text_recognition_model_name": "PP-OCRv5_mobile_rec",
-        "show_log": False,
-        "enable_mkldnn": False
     }
 
 # Initialize Flask app
