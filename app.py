@@ -10,7 +10,8 @@ import cv2
 import json
 
 os.environ["PPOCR_DOWNLOAD_MODELS"] = "false"  # Block ALL downloads
-os.environ["FLAGS_allocator_strategy"] = "auto_growth"  # Better memory management
+os.environ["FLAGS_allocator_strategy"] = "auto_growth"  # Dynamic memory
+os.environ["FLAGS_use_mkldnn"] = "false"  # Disable Intel optimizations
 
 # Configuration
 class Config:
